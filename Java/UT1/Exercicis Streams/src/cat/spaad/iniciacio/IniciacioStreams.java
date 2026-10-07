@@ -1,5 +1,6 @@
 package cat.spaad.iniciacio;
 
+import cat.spaad.auxiliar.Cronometre;
 import cat.spaad.tipusstreams.*;
 
 import java.io.IOException;
@@ -33,13 +34,28 @@ public class IniciacioStreams {
         // MetodesDataStreams.llegeixArray(ruta);
 
     }
+    public static void provesComparacions(){
+        IO.println("Llegint amb CharacterStreams:");
+        Cronometre crono = new Cronometre();
+        crono.inicia();
+        MetodesCharacterStreams.inutil("Shakespeare.txt");
+        crono.atura();
+        IO.println(crono.mostra());
+        crono.inicia();
+        IO.println("Llegint amb BufferedStreams:");
+        crono.inicia();
+        MetodesBufferedStreams.inutil("Shakespeare.txt");
+        crono.atura();
+        IO.println(crono.mostra());
+    }
 
     public static void main() {
         // provesByte();
         // provesCharacter();
         // provesBuffered();
         // provesData();
-        TraduirBinari.imprimirBinariAString("numeros.dat");
+        // TraduirBinari.imprimirBinariAString("numeros.dat");
+        provesComparacions();
     }
 
 }

@@ -30,4 +30,18 @@ public class MetodesBufferedStreams {
             e.printStackTrace();
         }
     }
+
+    public static void inutil(String rutaFitxer){
+        try (BufferedReader br = new BufferedReader(new FileReader(rutaFitxer));){
+            String linia;
+            while((linia = br.readLine()) != null){
+
+            }
+
+
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+
+    }
 }

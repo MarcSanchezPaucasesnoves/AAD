@@ -27,4 +27,14 @@ public class MetodesCharacterStreams {
         }
 
     }
+
+    public static void inutil(String origen) {
+        try (FileReader in = new FileReader(origen)) {
+            while (in.ready()) {
+                char c = (char) in.read();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }
