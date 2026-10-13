@@ -1,0 +1,17 @@
+[
+  {
+    "nom": "Marc",
+    "edat": 19,
+    "ciutat": "Plama"
+  },
+  {
+    "nom": "David",
+    "edat": 98,
+    "ciutat": "SpaceX"
+  },
+  {
+    "nom": "Pau",
+    "edat": 11,
+    "ciutat": "Finca"
+  }
+]
