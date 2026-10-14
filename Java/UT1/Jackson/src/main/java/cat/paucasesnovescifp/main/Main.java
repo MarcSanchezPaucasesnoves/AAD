@@ -1,6 +1,7 @@
 package cat.paucasesnovescifp.main;
 
 import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
@@ -21,6 +22,7 @@ public class Main {
             filtratDInformacio(arxiuPersones);
             serialitzarPersona();
             guardarPersones();
+            lecturaArbre(arxiuPersona);
         } catch (IOException e) {
             IO.println(e.getMessage());
         }
@@ -93,5 +95,13 @@ public class Main {
         File arxiuDesti = new File("llistaPersones.json");
 
         mapper.writerWithDefaultPrettyPrinter().writeValue(arxiuDesti, persones);
+    }
+
+    static void lecturaArbre(File arxiu) throws IOException{
+        ObjectMapper mapper = new ObjectMapper();
+
+        JsonNode rootNode = mapper.readTree(arxiu);
+
+        IO.println(rootNode.get("nom").asText());
     }
 }
