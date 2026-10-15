@@ -1,0 +1,13 @@
+[ {
+  "nom" : "Marc",
+  "edat" : 20,
+  "ciutat" : "Plama"
+}, {
+  "nom" : "David",
+  "edat" : 99,
+  "ciutat" : "SpaceX"
+}, {
+  "nom" : "Pau",
+  "edat" : 12,
+  "ciutat" : "Finca"
+} ]

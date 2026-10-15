@@ -1,0 +1,9 @@
+[ {
+  "nom" : "David",
+  "edat" : 98,
+  "ciutat" : "SpaceX"
+}, {
+  "id" : 234,
+  "name" : "Marc",
+  "edat" : 35
+} ]

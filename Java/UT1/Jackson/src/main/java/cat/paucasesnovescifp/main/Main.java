@@ -4,10 +4,13 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
+import com.fasterxml.jackson.databind.node.ArrayNode;
+import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -23,6 +26,10 @@ public class Main {
             serialitzarPersona();
             guardarPersones();
             lecturaArbre(arxiuPersona);
+            afegirModificarCamps(arxiuPersona);
+            eliminarCamps(arxiuPersona);
+            manipularArray(arxiuPersones);
+            actualitzacioGeneral(arxiuPersones);
         } catch (IOException e) {
             IO.println(e.getMessage());
         }
@@ -103,5 +110,89 @@ public class Main {
         JsonNode rootNode = mapper.readTree(arxiu);
 
         IO.println(rootNode.get("nom").asText());
+    }
+
+    static void afegirModificarCamps(File arxiu) throws IOException{
+        ObjectMapper mapper = new ObjectMapper();
+        JsonNode rootNode = mapper.readTree(arxiu);
+
+        if (rootNode.isObject()){
+            ObjectNode objectNode = (ObjectNode) rootNode;
+            objectNode.put("email", "a@gmail.com");
+            objectNode.put("ciutat", "Alibaba");
+            IO.println(mapper.writerWithDefaultPrettyPrinter().writeValueAsString(objectNode));
+        }
+
+    }
+
+    static void eliminarCamps(File arxiu) throws IOException{
+        ObjectMapper mapper = new ObjectMapper();
+        JsonNode rootNode = mapper.readTree(arxiu);
+
+        if (rootNode.isObject()){
+            ObjectNode objectNode = (ObjectNode) rootNode;
+            objectNode.remove("edat");
+            IO.println(mapper.writerWithDefaultPrettyPrinter().writeValueAsString(objectNode));
+        }
+    }
+
+    static void manipularArray(File arxiu) throws IOException{
+        ObjectMapper mapper = new ObjectMapper();
+        JsonNode rootNode = mapper.readTree(arxiu);
+
+        if (rootNode.isArray()){
+            ArrayNode arrayNode = (ArrayNode) rootNode;
+
+            System.out.println();
+            System.out.println("Afegir un usuari a l'array");
+            ObjectNode novaPersona = mapper.createObjectNode();
+            novaPersona.put("id", 234);
+            novaPersona.put("name", "Marc");
+            novaPersona.put("edat", 35);
+
+            arrayNode.add(novaPersona);
+            System.out.println(mapper.writerWithDefaultPrettyPrinter().writeValueAsString(arrayNode));
+
+            System.out.println();
+            System.out.println("Modificar elements dins un array");
+            for(JsonNode node : arrayNode){
+                if(node.get("edat").asInt() == 11){
+                    ObjectNode persona = (ObjectNode) node;
+                    persona.put("ciutat", "Sa Pobla");
+                }
+            }
+            System.out.println(mapper.writerWithDefaultPrettyPrinter().writeValueAsString(arrayNode));
+
+            System.out.println();
+            System.out.println("Eliminar elements");
+            File personesFiltrades = new File("empleatsFiltrats.json");
+
+            Iterator<JsonNode> iterator = rootNode.elements();
+            while (iterator.hasNext()){
+                JsonNode node = iterator.next();
+
+                if(node.get("edat").asInt() < 30) {
+                    iterator.remove();
+                }
+            }
+
+            mapper.writerWithDefaultPrettyPrinter().writeValue(personesFiltrades, rootNode);
+
+        }
+    }
+
+    static void actualitzacioGeneral(File arxiu) throws IOException{
+        ObjectMapper mapper = new ObjectMapper();
+        JsonNode rootNode = mapper.readTree(arxiu);
+
+        Iterator<JsonNode> iterator = rootNode.elements();
+        while (iterator.hasNext()){
+            JsonNode node = iterator.next();
+
+            ObjectNode empleat = (ObjectNode) node;
+            empleat.put("edat", empleat.get("edat").asInt() + 1);
+        }
+
+        mapper.writerWithDefaultPrettyPrinter().writeValue(new File("empleatsActualitzats.json"), rootNode);
     }
 }
