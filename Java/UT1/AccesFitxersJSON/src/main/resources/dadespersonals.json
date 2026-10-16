@@ -1,0 +1,12 @@
+{
+  "nom" : "Olívia",
+  "edat" : 30,
+  "correu" : "olivia@pau.cat",
+  "adreça" : {
+    "carrer" : "Avinguda del vent",
+    "numero" : 42,
+    "ciutat" : "Lloret",
+    "pais" : "Illes Balears"
+  },
+  "llenguatges" : ["Java", "Python", "SQL"]
+}

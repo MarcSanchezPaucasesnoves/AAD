@@ -74,6 +74,7 @@ public class CRUD {
             JsonNode node = iterator.next();
             if (nUsuari == i){
                 iterator.remove();
+                return;
             }
         }
     }
