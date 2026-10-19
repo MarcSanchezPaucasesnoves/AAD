@@ -1,0 +1,929 @@
+[ {
+  "nom" : "Papua New Guinea",
+  "ciutats" : [ "Port Moresby" ],
+  "poblacio" : 247000
+}, {
+  "nom" : "Cambodia",
+  "ciutats" : [ "Phnom Penh", "Battambang", "Siem Reap" ],
+  "poblacio" : 805055
+}, {
+  "nom" : "Paraguay",
+  "ciutats" : [ "Asunción", "Ciudad del Este", "San Lorenzo", "Lambaré", "Fernando de la Mora" ],
+  "poblacio" : 1020020
+}, {
+  "nom" : "Syria",
+  "ciutats" : [ "Damascus", "Aleppo", "Hims", "Hama", "Latakia", "al-Qamishliya", "Dayr al-Zawr", "Jaramana", "Duma", "al-Raqqa", "Idlib" ],
+  "poblacio" : 4477784
+}, {
+  "nom" : "Bahamas",
+  "ciutats" : [ "Nassau" ],
+  "poblacio" : 172000
+}, {
+  "nom" : "Côte d’Ivoire",
+  "ciutats" : [ "Abidjan", "Bouaké", "Yamoussoukro", "Daloa", "Korhogo" ],
+  "poblacio" : 3191137
+}, {
+  "nom" : "Solomon Islands",
+  "ciutats" : [ "Honiara" ],
+  "poblacio" : 50100
+}, {
+  "nom" : "Montserrat",
+  "ciutats" : [ "Plymouth" ],
+  "poblacio" : 2000
+}, {
+  "nom" : "Marshall Islands",
+  "ciutats" : [ "Dalap-Uliga-Darrit" ],
+  "poblacio" : 28000
+}, {
+  "nom" : "Mali",
+  "ciutats" : [ "Bamako" ],
+  "poblacio" : 809552
+}, {
+  "nom" : "Guadeloupe",
+  "ciutats" : [ "Les Abymes", "Basse-Terre" ],
+  "poblacio" : 75380
+}, {
+  "nom" : "Panama",
+  "ciutats" : [ "Ciudad de Panamá", "San Miguelito" ],
+  "poblacio" : 786755
+}, {
+  "nom" : "Virgin Islands, British",
+  "ciutats" : [ "Road Town" ],
+  "poblacio" : 8000
+}, {
+  "nom" : "Laos",
+  "ciutats" : [ "Vientiane", "Savannakhet" ],
+  "poblacio" : 628452
+}, {
+  "nom" : "Argentina",
+  "ciutats" : [ "Buenos Aires", "La Matanza", "Córdoba", "Rosario", "Lomas de Zamora", "Quilmes", "Almirante Brown", "La Plata", "Mar del Plata", "San Miguel de Tucumán", "Lanús", "Merlo", "General San Martín", "Salta", "Moreno", "Santa Fé", "Avellaneda", "Tres de Febrero", "Morón", "Florencio Varela", "San Isidro", "Tigre", "Malvinas Argentinas", "Vicente López", "Berazategui", "Corrientes", "San Miguel", "Bahía Blanca", "Esteban Echeverría", "Resistencia", "José C. Paz", "Paraná", "Godoy Cruz", "Posadas", "Guaymallén", "Santiago del Estero", "San Salvador de Jujuy", "Hurlingham", "Neuquén", "Ituzaingó", "San Fernando", "Formosa", "Las Heras", "La Rioja", "San Fernando del Valle de Cata", "Río Cuarto", "Comodoro Rivadavia", "Mendoza", "San Nicolás de los Arroyos", "San Juan", "Escobar", "Concordia", "Pilar", "San Luis", "Ezeiza", "San Rafael", "Tandil" ],
+  "poblacio" : 19996563
+}, {
+  "nom" : "Falkland Islands",
+  "ciutats" : [ "Stanley" ],
+  "poblacio" : 1636
+}, {
+  "nom" : "Seychelles",
+  "ciutats" : [ "Victoria" ],
+  "poblacio" : 41000
+}, {
+  "nom" : "Belize",
+  "ciutats" : [ "Belize City", "Belmopan" ],
+  "poblacio" : 62915
+}, {
+  "nom" : "Zambia",
+  "ciutats" : [ "Lusaka", "Ndola", "Kitwe", "Kabwe", "Chingola", "Mufulira", "Luanshya" ],
+  "poblacio" : 2473500
+}, {
+  "nom" : "Bahrain",
+  "ciutats" : [ "al-Manama" ],
+  "poblacio" : 148000
+}, {
+  "nom" : "Congo",
+  "ciutats" : [ "Brazzaville", "Pointe-Noire" ],
+  "poblacio" : 1450000
+}, {
+  "nom" : "Guinea-Bissau",
+  "ciutats" : [ "Bissau" ],
+  "poblacio" : 241000
+}, {
+  "nom" : "Namibia",
+  "ciutats" : [ "Windhoek" ],
+  "poblacio" : 169000
+}, {
+  "nom" : "Comoros",
+  "ciutats" : [ "Moroni" ],
+  "poblacio" : 36000
+}, {
+  "nom" : "Finland",
+  "ciutats" : [ "Helsinki [Helsingfors]", "Espoo", "Tampere", "Vantaa", "Turku [Åbo]", "Oulu", "Lahti" ],
+  "poblacio" : 1532919
+}, {
+  "nom" : "Faroe Islands",
+  "ciutats" : [ "Tórshavn" ],
+  "poblacio" : 14542
+}, {
+  "nom" : "Netherlands Antilles",
+  "ciutats" : [ "Willemstad" ],
+  "poblacio" : 2345
+}, {
+  "nom" : "Georgia",
+  "ciutats" : [ "Tbilisi", "Kutaisi", "Rustavi", "Batumi", "Sohumi" ],
+  "poblacio" : 1880900
+}, {
+  "nom" : "Saint Kitts and Nevis",
+  "ciutats" : [ "Basseterre" ],
+  "poblacio" : 11600
+}, {
+  "nom" : "Yemen",
+  "ciutats" : [ "Sanaa", "Aden", "Taizz", "Hodeida", "al-Mukalla", "Ibb" ],
+  "poblacio" : 1743700
+}, {
+  "nom" : "Eritrea",
+  "ciutats" : [ "Asmara" ],
+  "poblacio" : 431000
+}, {
+  "nom" : "Puerto Rico",
+  "ciutats" : [ "San Juan", "Bayamón", "Ponce", "Carolina", "Caguas", "Arecibo", "Guaynabo", "Mayagüez", "Toa Baja" ],
+  "poblacio" : 1564174
+}, {
+  "nom" : "Aruba",
+  "ciutats" : [ "Oranjestad" ],
+  "poblacio" : 29034
+}, {
+  "nom" : "Madagascar",
+  "ciutats" : [ "Antananarivo", "Toamasina", "Antsirabé", "Mahajanga", "Fianarantsoa" ],
+  "poblacio" : 1123161
+}, {
+  "nom" : "Svalbard and Jan Mayen",
+  "ciutats" : [ "Longyearbyen" ],
+  "poblacio" : 1438
+}, {
+  "nom" : "Sweden",
+  "ciutats" : [ "Stockholm", "Gothenburg [Göteborg]", "Malmö", "Uppsala", "Linköping", "Västerås", "Örebro", "Norrköping", "Helsingborg", "Jönköping", "Umeå", "Lund", "Borås", "Sundsvall", "Gävle" ],
+  "poblacio" : 2891431
+}, {
+  "nom" : "Cocos (Keeling) Islands",
+  "ciutats" : [ "Bantam", "West Island" ],
+  "poblacio" : 670
+}, {
+  "nom" : "Malawi",
+  "ciutats" : [ "Blantyre", "Lilongwe" ],
+  "poblacio" : 914119
+}, {
+  "nom" : "Andorra",
+  "ciutats" : [ "Andorra la Vella" ],
+  "poblacio" : 21189
+}, {
+  "nom" : "Liechtenstein",
+  "ciutats" : [ "Schaan", "Vaduz" ],
+  "poblacio" : 10389
+}, {
+  "nom" : "Poland",
+  "ciutats" : [ "Warszawa", "Lódz", "Kraków", "Wroclaw", "Poznan", "Gdansk", "Szczecin", "Bydgoszcz", "Lublin", "Katowice", "Bialystok", "Czestochowa", "Gdynia", "Sosnowiec", "Radom", "Kielce", "Gliwice", "Torun", "Bytom", "Zabrze", "Bielsko-Biala", "Olsztyn", "Rzeszów", "Ruda Slaska", "Rybnik", "Walbrzych", "Tychy", "Dabrowa Górnicza", "Plock", "Elblag", "Opole", "Gorzów Wielkopolski", "Wloclawek", "Chorzów", "Tarnów", "Zielona Góra", "Koszalin", "Legnica", "Kalisz", "Grudziadz", "Slupsk", "Jastrzebie-Zdrój", "Jaworzno", "Jelenia Góra" ],
+  "poblacio" : 11687431
+}, {
+  "nom" : "Bulgaria",
+  "ciutats" : [ "Sofija", "Plovdiv", "Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Sliven", "Dobric", "Šumen" ],
+  "poblacio" : 2696915
+}, {
+  "nom" : "Jordan",
+  "ciutats" : [ "Amman", "al-Zarqa", "Irbid", "al-Rusayfa", "Wadi al-Sir" ],
+  "poblacio" : 1847677
+}, {
+  "nom" : "Tunisia",
+  "ciutats" : [ "Tunis", "Sfax", "Ariana", "Ettadhamen", "Sousse", "Kairouan", "Biserta", "Gabès" ],
+  "poblacio" : 1798500
+}, {
+  "nom" : "United Arab Emirates",
+  "ciutats" : [ "Dubai", "Abu Dhabi", "Sharja", "al-Ayn", "Ajman" ],
+  "poblacio" : 1728336
+}, {
+  "nom" : "Tuvalu",
+  "ciutats" : [ "Funafuti" ],
+  "poblacio" : 4600
+}, {
+  "nom" : "Kenya",
+  "ciutats" : [ "Nairobi", "Mombasa", "Kisumu", "Nakuru", "Machakos", "Eldoret", "Meru", "Nyeri" ],
+  "poblacio" : 3522793
+}, {
+  "nom" : "French Polynesia",
+  "ciutats" : [ "Faaa", "Papeete" ],
+  "poblacio" : 51441
+}, {
+  "nom" : "Brunei",
+  "ciutats" : [ "Bandar Seri Begawan" ],
+  "poblacio" : 21484
+}, {
+  "nom" : "Djibouti",
+  "ciutats" : [ "Djibouti" ],
+  "poblacio" : 383000
+}, {
+  "nom" : "Lebanon",
+  "ciutats" : [ "Beirut", "Tripoli" ],
+  "poblacio" : 1340000
+}, {
+  "nom" : "Azerbaijan",
+  "ciutats" : [ "Baku", "Gäncä", "Sumqayit", "Mingäçevir" ],
+  "poblacio" : 2464000
+}, {
+  "nom" : "Cuba",
+  "ciutats" : [ "La Habana", "Santiago de Cuba", "Camagüey", "Holguín", "Santa Clara", "Guantánamo", "Pinar del Río", "Bayamo", "Cienfuegos", "Victoria de las Tunas", "Matanzas", "Manzanillo", "Sancti-Spíritus", "Ciego de Ávila" ],
+  "poblacio" : 4629925
+}, {
+  "nom" : "Czech Republic",
+  "ciutats" : [ "Praha", "Brno", "Ostrava", "Plzen", "Olomouc", "Liberec", "Ceské Budejovice", "Hradec Králové", "Ústí nad Labem", "Pardubice" ],
+  "poblacio" : 2634711
+}, {
+  "nom" : "Saint Lucia",
+  "ciutats" : [ "Castries" ],
+  "poblacio" : 2301
+}, {
+  "nom" : "Mauritania",
+  "ciutats" : [ "Nouakchott", "Nouâdhibou" ],
+  "poblacio" : 764900
+}, {
+  "nom" : "Mayotte",
+  "ciutats" : [ "Mamoutzou" ],
+  "poblacio" : 12000
+}, {
+  "nom" : "Israel",
+  "ciutats" : [ "Jerusalem", "Tel Aviv-Jaffa", "Haifa", "Rishon Le Ziyyon", "Beerseba", "Holon", "Petah Tiqwa", "Ashdod", "Netanya", "Bat Yam", "Bene Beraq", "Ramat Gan", "Ashqelon", "Rehovot" ],
+  "poblacio" : 2813000
+}, {
+  "nom" : "San Marino",
+  "ciutats" : [ "Serravalle", "San Marino" ],
+  "poblacio" : 7096
+}, {
+  "nom" : "Australia",
+  "ciutats" : [ "Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Canberra", "Gold Coast", "Newcastle", "Central Coast", "Wollongong", "Hobart", "Geelong", "Townsville", "Cairns" ],
+  "poblacio" : 11313666
+}, {
+  "nom" : "Tajikistan",
+  "ciutats" : [ "Dushanbe", "Khujand" ],
+  "poblacio" : 685500
+}, {
+  "nom" : "Myanmar",
+  "ciutats" : [ "Rangoon (Yangon)", "Mandalay", "Moulmein (Mawlamyine)", "Pegu (Bago)", "Bassein (Pathein)", "Monywa", "Sittwe (Akyab)", "Taunggyi (Taunggye)", "Meikhtila", "Mergui (Myeik)", "Lashio (Lasho)", "Prome (Pyay)", "Henzada (Hinthada)", "Myingyan", "Tavoy (Dawei)", "Pagakku (Pakokku)" ],
+  "poblacio" : 6203000
+}, {
+  "nom" : "Cameroon",
+  "ciutats" : [ "Douala", "Yaoundé", "Garoua", "Maroua", "Bamenda", "Bafoussam", "Nkongsamba" ],
+  "poblacio" : 3522554
+}, {
+  "nom" : "Gibraltar",
+  "ciutats" : [ "Gibraltar" ],
+  "poblacio" : 27025
+}, {
+  "nom" : "Cyprus",
+  "ciutats" : [ "Nicosia", "Limassol" ],
+  "poblacio" : 349400
+}, {
+  "nom" : "Northern Mariana Islands",
+  "ciutats" : [ "Garapan" ],
+  "poblacio" : 9200
+}, {
+  "nom" : "Malaysia",
+  "ciutats" : [ "Kuala Lumpur", "Ipoh", "Johor Baharu", "Petaling Jaya", "Kelang", "Kuala Terengganu", "Pinang", "Kota Bharu", "Kuantan", "Taiping", "Seremban", "Kuching", "Sibu", "Sandakan", "Alor Setar", "Selayang Baru", "Sungai Petani", "Shah Alam" ],
+  "poblacio" : 4605141
+}, {
+  "nom" : "Iceland",
+  "ciutats" : [ "Reykjavík" ],
+  "poblacio" : 109184
+}, {
+  "nom" : "Oman",
+  "ciutats" : [ "al-Sib", "Salala", "Bawshar", "Suhar", "Masqat" ],
+  "poblacio" : 537096
+}, {
+  "nom" : "Armenia",
+  "ciutats" : [ "Yerevan", "Gjumri", "Vanadzor" ],
+  "poblacio" : 1633100
+}, {
+  "nom" : "Gabon",
+  "ciutats" : [ "Libreville" ],
+  "poblacio" : 419000
+}, {
+  "nom" : "Yugoslavia",
+  "ciutats" : [ "Beograd", "Novi Sad", "Niš", "Priština", "Kragujevac", "Podgorica", "Subotica", "Prizren" ],
+  "poblacio" : 2189507
+}, {
+  "nom" : "Luxembourg",
+  "ciutats" : [ "Luxembourg [Luxemburg/Lëtzebuerg]" ],
+  "poblacio" : 80700
+}, {
+  "nom" : "Congo, The Democratic Republic of the",
+  "ciutats" : [ "Kinshasa", "Lubumbashi", "Mbuji-Mayi", "Kolwezi", "Kisangani", "Kananga", "Likasi", "Bukavu", "Kikwit", "Tshikapa", "Matadi", "Mbandaka", "Mwene-Ditu", "Boma", "Uvira", "Butembo", "Goma", "Kalemie" ],
+  "poblacio" : 9864615
+}, {
+  "nom" : "Brazil",
+  "ciutats" : [ "São Paulo", "Rio de Janeiro", "Salvador", "Belo Horizonte", "Fortaleza", "Brasília", "Curitiba", "Recife", "Porto Alegre", "Manaus", "Belém", "Guarulhos", "Goiânia", "Campinas", "São Gonçalo", "Nova Iguaçu", "São Luís", "Maceió", "Duque de Caxias", "São Bernardo do Campo", "Teresina", "Natal", "Osasco", "Campo Grande", "Santo André", "João Pessoa", "Jaboatão dos Guararapes", "Contagem", "São José dos Campos", "Uberlândia", "Feira de Santana", "Ribeirão Preto", "Sorocaba", "Niterói", "Cuiabá", "Juiz de Fora", "Aracaju", "São João de Meriti", "Londrina", "Joinville", "Belford Roxo", "Santos", "Ananindeua", "Campos dos Goytacazes", "Mauá", "Carapicuíba", "Olinda", "Campina Grande", "São José do Rio Preto", "Caxias do Sul", "Moji das Cruzes", "Diadema", "Aparecida de Goiânia", "Piracicaba", "Cariacica", "Vila Velha", "Pelotas", "Bauru", "Porto Velho", "Serra", "Betim", "Jundíaí", "Canoas", "Franca", "São Vicente", "Maringá", "Montes Claros", "Anápolis", "Florianópolis", "Petrópolis", "Itaquaquecetuba", "Vitória", "Ponta Grossa", "Rio Branco", "Foz do Iguaçu", "Macapá", "Ilhéus", "Vitória da Conquista", "Uberaba", "Paulista", "Limeira", "Blumenau", "Caruaru", "Santarém", "Volta Redonda", "Novo Hamburgo", "Caucaia", "Santa Maria", "Cascavel", "Guarujá", "Ribeirão das Neves", "Governador Valadares", "Taubaté", "Imperatriz", "Gravataí", "Embu", "Mossoró", "Várzea Grande", "Petrolina", "Barueri", "Viamão", "Ipatinga", "Juazeiro", "Juazeiro do Norte", "Taboão da Serra", "São José dos Pinhais", "Magé", "Suzano", "São Leopoldo", "Marília", "São Carlos", "Sumaré", "Presidente Prudente", "Divinópolis", "Sete Lagoas", "Rio Grande", "Itabuna", "Jequié", "Arapiraca", "Colombo", "Americana", "Alvorada", "Araraquara", "Itaboraí", "Santa Bárbara d´Oeste", "Nova Friburgo", "Jacareí", "Araçatuba", "Barra Mansa", "Praia Grande", "Marabá", "Criciúma", "Boa Vista", "Passo Fundo", "Dourados", "Santa Luzia", "Rio Claro", "Maracanaú", "Guarapuava", "Rondonópolis", "São José", "Cachoeiro de Itapemirim", "Nilópolis", "Itapevi", "Cabo de Santo Agostinho", "Camaçari", "Sobral", "Itajaí", "Chapecó", "Cotia", "Lages", "Ferraz de Vasconcelos", "Indaiatuba", "Hortolândia", "Caxias", "São Caetano do Sul", "Itu", "Nossa Senhora do Socorro", "Parnaíba", "Poços de Caldas", "Teresópolis", "Barreiras", "Castanhal", "Alagoinhas", "Itapecerica da Serra", "Uruguaiana", "Paranaguá", "Ibirité", "Timon", "Luziânia", "Macaé", "Teófilo Otoni", "Moji-Guaçu", "Palmas", "Pindamonhangaba", "Francisco Morato", "Bagé", "Sapucaia do Sul", "Cabo Frio", "Itapetininga", "Patos de Minas", "Camaragibe", "Bragança Paulista", "Queimados", "Araguaína", "Garanhuns", "Vitória de Santo Antão", "Santa Rita", "Barbacena", "Abaetetuba", "Jaú", "Lauro de Freitas", "Franco da Rocha", "Teixeira de Freitas", "Varginha", "Ribeirão Pires", "Sabará", "Catanduva", "Rio Verde", "Botucatu", "Colatina", "Santa Cruz do Sul", "Linhares", "Apucarana", "Barretos", "Guaratinguetá", "Cachoeirinha", "Codó", "Jaraguá do Sul", "Cubatão", "Itabira", "Itaituba", "Araras", "Resende", "Atibaia", "Pouso Alegre", "Toledo", "Crato", "Passos", "Araguari", "São José de Ribamar", "Pinhais", "Sertãozinho", "Conselheiro Lafaiete", "Paulo Afonso", "Angra dos Reis", "Eunápolis", "Salto", "Ourinhos", "Parnamirim", "Jacobina", "Coronel Fabriciano", "Birigui", "Tatuí", "Ji-Paraná", "Bacabal", "Cametá", "Guaíba", "São Lourenço da Mata", "Santana do Livramento", "Votorantim", "Campo Largo", "Patos", "Ituiutaba", "Corumbá", "Palhoça", "Barra do Piraí", "Bento Gonçalves", "Poá", "Águas Lindas de Goiás" ],
+  "poblacio" : 85876862
+}, {
+  "nom" : "Turks and Caicos Islands",
+  "ciutats" : [ "Cockburn Town" ],
+  "poblacio" : 4800
+}, {
+  "nom" : "Algeria",
+  "ciutats" : [ "Alger", "Oran", "Constantine", "Annaba", "Batna", "Sétif", "Sidi Bel Abbès", "Skikda", "Biskra", "Blida (el-Boulaida)", "Béjaïa", "Mostaganem", "Tébessa", "Tlemcen (Tilimsen)", "Béchar", "Tiaret", "Ech-Chleff (el-Asnam)", "Ghardaïa" ],
+  "poblacio" : 5192179
+}, {
+  "nom" : "Slovenia",
+  "ciutats" : [ "Ljubljana", "Maribor" ],
+  "poblacio" : 386518
+}, {
+  "nom" : "Antigua and Barbuda",
+  "ciutats" : [ "Saint John´s" ],
+  "poblacio" : 24000
+}, {
+  "nom" : "Colombia",
+  "ciutats" : [ "Santafé de Bogotá", "Cali", "Medellín", "Barranquilla", "Cartagena", "Cúcuta", "Bucaramanga", "Ibagué", "Pereira", "Santa Marta", "Manizales", "Bello", "Pasto", "Neiva", "Soledad", "Armenia", "Villavicencio", "Soacha", "Valledupar", "Montería", "Itagüí", "Palmira", "Buenaventura", "Floridablanca", "Sincelejo", "Popayán", "Barrancabermeja", "Dos Quebradas", "Tuluá", "Envigado", "Cartago", "Girardot", "Buga", "Tunja", "Florencia", "Maicao", "Sogamoso", "Giron" ],
+  "poblacio" : 20250990
+}, {
+  "nom" : "Ecuador",
+  "ciutats" : [ "Guayaquil", "Quito", "Cuenca", "Machala", "Santo Domingo de los Colorados", "Portoviejo", "Ambato", "Manta", "Duran [Eloy Alfaro]", "Ibarra", "Quevedo", "Milagro", "Loja", "Ríobamba", "Esmeraldas" ],
+  "poblacio" : 5744142
+}, {
+  "nom" : "Moldova",
+  "ciutats" : [ "Chisinau", "Tiraspol", "Balti", "Bender (Tîghina)" ],
+  "poblacio" : 1193300
+}, {
+  "nom" : "Vanuatu",
+  "ciutats" : [ "Port-Vila" ],
+  "poblacio" : 33700
+}, {
+  "nom" : "Honduras",
+  "ciutats" : [ "Tegucigalpa", "San Pedro Sula", "La Ceiba" ],
+  "poblacio" : 1287000
+}, {
+  "nom" : "Italy",
+  "ciutats" : [ "Roma", "Milano", "Napoli", "Torino", "Palermo", "Genova", "Bologna", "Firenze", "Catania", "Bari", "Venezia", "Messina", "Verona", "Trieste", "Padova", "Taranto", "Brescia", "Reggio di Calabria", "Modena", "Prato", "Parma", "Cagliari", "Livorno", "Perugia", "Foggia", "Reggio nell´ Emilia", "Salerno", "Ravenna", "Ferrara", "Rimini", "Syrakusa", "Sassari", "Monza", "Bergamo", "Pescara", "Latina", "Vicenza", "Terni", "Forlì", "Trento", "Novara", "Piacenza", "Ancona", "Lecce", "Bolzano", "Catanzaro", "La Spezia", "Udine", "Torre del Greco", "Andria", "Brindisi", "Giugliano in Campania", "Pisa", "Barletta", "Arezzo", "Alessandria", "Cesena", "Pesaro" ],
+  "poblacio" : 15087019
+}, {
+  "nom" : "Nauru",
+  "ciutats" : [ "Yangor", "Yaren" ],
+  "poblacio" : 4609
+}, {
+  "nom" : "Haiti",
+  "ciutats" : [ "Port-au-Prince", "Carrefour", "Delmas", "Le-Cap-Haïtien" ],
+  "poblacio" : 1517338
+}, {
+  "nom" : "Afghanistan",
+  "ciutats" : [ "Kabul", "Herat", "Mazar-e-Sharif" ],
+  "poblacio" : 2094600
+}, {
+  "nom" : "Burundi",
+  "ciutats" : [ "Bujumbura" ],
+  "poblacio" : 300000
+}, {
+  "nom" : "Russian Federation",
+  "ciutats" : [ "Moscow", "St Petersburg", "Novosibirsk", "Nizni Novgorod", "Jekaterinburg", "Samara", "Omsk", "Kazan", "Ufa", "Tšeljabinsk", "Rostov-na-Donu", "Perm", "Volgograd", "Voronez", "Krasnojarsk", "Saratov", "Toljatti", "Uljanovsk", "Izevsk", "Krasnodar", "Jaroslavl", "Habarovsk", "Vladivostok", "Irkutsk", "Barnaul", "Novokuznetsk", "Penza", "Rjazan", "Orenburg", "Lipetsk", "Nabereznyje Tšelny", "Tula", "Tjumen", "Kemerovo", "Astrahan", "Tomsk", "Kirov", "Ivanovo", "Tšeboksary", "Brjansk", "Tver", "Kursk", "Magnitogorsk", "Kaliningrad", "Nizni Tagil", "Murmansk", "Ulan-Ude", "Kurgan", "Arkangeli", "Sotši", "Smolensk", "Orjol", "Stavropol", "Belgorod", "Kaluga", "Vladimir", "Mahatškala", "Tšerepovets", "Saransk", "Tambov", "Vladikavkaz", "Tšita", "Vologda", "Veliki Novgorod", "Komsomolsk-na-Amure", "Kostroma", "Volzski", "Taganrog", "Petroskoi", "Bratsk", "Dzerzinsk", "Surgut", "Orsk", "Sterlitamak", "Angarsk", "Joškar-Ola", "Rybinsk", "Prokopjevsk", "Niznevartovsk", "Naltšik", "Syktyvkar", "Severodvinsk", "Bijsk", "Niznekamsk", "Blagoveštšensk", "Šahty", "Staryi Oskol", "Zelenograd", "Balakovo", "Novorossijsk", "Pihkova", "Zlatoust", "Jakutsk", "Podolsk", "Petropavlovsk-Kamtšatski", "Kamensk-Uralski", "Engels", "Syzran", "Grozny", "Novotšerkassk", "Berezniki", "Juzno-Sahalinsk", "Volgodonsk", "Abakan", "Maikop", "Miass", "Armavir", "Ljubertsy", "Rubtsovsk", "Kovrov", "Nahodka", "Ussurijsk", "Salavat", "Mytištši", "Kolomna", "Elektrostal", "Murom", "Kolpino", "Norilsk", "Almetjevsk", "Novomoskovsk", "Dimitrovgrad", "Pervouralsk", "Himki", "Balašiha", "Nevinnomyssk", "Pjatigorsk", "Korolev", "Serpuhov", "Odintsovo", "Orehovo-Zujevo", "Kamyšin", "Novotšeboksarsk", "Tšerkessk", "Atšinsk", "Magadan", "Mitšurinsk", "Kislovodsk", "Jelets", "Seversk", "Noginsk", "Velikije Luki", "Novokuibyševsk", "Neftekamsk", "Leninsk-Kuznetski", "Oktjabrski", "Sergijev Posad", "Arzamas", "Kiseljovsk", "Novotroitsk", "Obninsk", "Kansk", "Glazov", "Solikamsk", "Sarapul", "Ust-Ilimsk", "Štšolkovo", "Mezduretšensk", "Usolje-Sibirskoje", "Elista", "Novošahtinsk", "Votkinsk", "Kyzyl", "Serov", "Zelenodolsk", "Zeleznodoroznyi", "Kinešma", "Kuznetsk", "Uhta", "Jessentuki", "Tobolsk", "Neftejugansk", "Bataisk", "Nojabrsk", "Balašov", "Zeleznogorsk", "Zukovski", "Anzero-Sudzensk", "Bugulma", "Zeleznogorsk", "Novouralsk", "Puškin", "Vorkuta", "Derbent", "Kirovo-Tšepetsk", "Krasnogorsk", "Klin", "Tšaikovski", "Novyi Urengoi" ],
+  "poblacio" : 69150700
+}, {
+  "nom" : "Singapore",
+  "ciutats" : [ "Singapore" ],
+  "poblacio" : 4017733
+}, {
+  "nom" : "French Guiana",
+  "ciutats" : [ "Cayenne" ],
+  "poblacio" : 50699
+}, {
+  "nom" : "American Samoa",
+  "ciutats" : [ "Tafuna", "Fagatogo" ],
+  "poblacio" : 7523
+}, {
+  "nom" : "Christmas Island",
+  "ciutats" : [ "Flying Fish Cove" ],
+  "poblacio" : 700
+}, {
+  "nom" : "Netherlands",
+  "ciutats" : [ "Amsterdam", "Rotterdam", "Haag", "Utrecht", "Eindhoven", "Tilburg", "Groningen", "Breda", "Apeldoorn", "Nijmegen", "Enschede", "Haarlem", "Almere", "Arnhem", "Zaanstad", "´s-Hertogenbosch", "Amersfoort", "Maastricht", "Dordrecht", "Leiden", "Haarlemmermeer", "Zoetermeer", "Emmen", "Zwolle", "Ede", "Delft", "Heerlen", "Alkmaar" ],
+  "poblacio" : 5180049
+}, {
+  "nom" : "China",
+  "ciutats" : [ "Shanghai", "Peking", "Chongqing", "Tianjin", "Wuhan", "Harbin", "Shenyang", "Kanton [Guangzhou]", "Chengdu", "Nanking [Nanjing]", "Changchun", "Xi´an", "Dalian", "Qingdao", "Jinan", "Hangzhou", "Zhengzhou", "Shijiazhuang", "Taiyuan", "Kunming", "Changsha", "Nanchang", "Fuzhou", "Lanzhou", "Guiyang", "Ningbo", "Hefei", "Urumtši [Ürümqi]", "Anshan", "Fushun", "Nanning", "Zibo", "Qiqihar", "Jilin", "Tangshan", "Baotou", "Shenzhen", "Hohhot", "Handan", "Wuxi", "Xuzhou", "Datong", "Yichun", "Benxi", "Luoyang", "Suzhou", "Xining", "Huainan", "Jixi", "Daqing", "Fuxin", "Amoy [Xiamen]", "Liuzhou", "Shantou", "Jinzhou", "Mudanjiang", "Yinchuan", "Changzhou", "Zhangjiakou", "Dandong", "Hegang", "Kaifeng", "Jiamusi", "Liaoyang", "Hengyang", "Baoding", "Hunjiang", "Xinxiang", "Huangshi", "Haikou", "Yantai", "Bengbu", "Xiangtan", "Weifang", "Wuhu", "Pingxiang", "Yingkou", "Anyang", "Panzhihua", "Pingdingshan", "Xiangfan", "Zhuzhou", "Jiaozuo", "Wenzhou", "Zhangjiang", "Zigong", "Shuangyashan", "Zaozhuang", "Yakeshi", "Yichang", "Zhenjiang", "Huaibei", "Qinhuangdao", "Guilin", "Liupanshui", "Panjin", "Yangquan", "Jinxi", "Liaoyuan", "Lianyungang", "Xianyang", "Tai´an", "Chifeng", "Shaoguan", "Nantong", "Leshan", "Baoji", "Linyi", "Tonghua", "Siping", "Changzhi", "Tengzhou", "Chaozhou", "Yangzhou", "Dongwan", "Ma´anshan", "Foshan", "Yueyang", "Xingtai", "Changde", "Shihezi", "Yancheng", "Jiujiang", "Dongying", "Shashi", "Xintai", "Jingdezhen", "Tongchuan", "Zhongshan", "Shiyan", "Tieli", "Jining", "Wuhai", "Mianyang", "Luzhou", "Zunyi", "Shizuishan", "Neijiang", "Tongliao", "Tieling", "Wafangdian", "Anqing", "Shaoyang", "Laiwu", "Chengde", "Tianshui", "Nanyang", "Cangzhou", "Yibin", "Huaiyin", "Dunhua", "Yanji", "Jiangmen", "Tongling", "Suihua", "Gongziling", "Xiantao", "Chaoyang", "Ganzhou", "Huzhou", "Baicheng", "Shangzi", "Yangjiang", "Qitaihe", "Gejiu", "Jiangyin", "Hebi", "Jiaxing", "Wuzhou", "Meihekou", "Xuchang", "Liaocheng", "Haicheng", "Qianjiang", "Baiyin", "Bei´an", "Yixing", "Laizhou", "Qaramay", "Acheng", "Dezhou", "Nanping", "Zhaoqing", "Beipiao", "Fengcheng", "Fuyu", "Xinyang", "Dongtai", "Yuci", "Honghu", "Ezhou", "Heze", "Daxian", "Linfen", "Tianmen", "Yiyang", "Quanzhou", "Rizhao", "Deyang", "Guangyuan", "Changshu", "Zhangzhou", "Hailar", "Nanchong", "Jiutai", "Zhaodong", "Shaoxing", "Fuyang", "Maoming", "Qujing", "Ghulja", "Jiaohe", "Puyang", "Huadian", "Jiangyou", "Qashqar", "Anshun", "Fuling", "Xinyu", "Hanzhong", "Danyang", "Chenzhou", "Xiaogan", "Shangqiu", "Zhuhai", "Qingyuan", "Aqsu", "Jining", "Xiaoshan", "Zaoyang", "Xinghua", "Hami", "Huizhou", "Jinmen", "Sanming", "Ulanhot", "Korla", "Wanxian", "Rui´an", "Zhoushan", "Liangcheng", "Jiaozhou", "Taizhou", "Suzhou", "Yichun", "Taonan", "Pingdu", "Ji´an", "Longkou", "Langfang", "Zhoukou", "Suining", "Yulin", "Jinhua", "Liu´an", "Shuangcheng", "Suizhou", "Ankang", "Weinan", "Longjing", "Da´an", "Lengshuijiang", "Laiyang", "Xianning", "Dali", "Anda", "Jincheng", "Longyan", "Xichang", "Wendeng", "Hailun", "Binzhou", "Linhe", "Wuwei", "Duyun", "Mishan", "Shangrao", "Changji", "Meixian", "Yushu", "Tiefa", "Huai´an", "Leiyang", "Zalantun", "Weihai", "Loudi", "Qingzhou", "Qidong", "Huaihua", "Luohe", "Chuzhou", "Kaiyuan", "Linqing", "Chaohu", "Laohekou", "Dujiangyan", "Zhumadian", "Linchuan", "Jiaonan", "Sanmenxia", "Heyuan", "Manzhouli", "Lhasa", "Lianyuan", "Kuytun", "Puqi", "Hongjiang", "Qinzhou", "Renqiu", "Yuyao", "Guigang", "Kaili", "Yan´an", "Beihai", "Xuangzhou", "Quzhou", "Yong´an", "Zixing", "Liyang", "Yizheng", "Yumen", "Liling", "Yuncheng", "Shanwei", "Cixi", "Yuanjiang", "Bozhou", "Jinchang", "Fu´an", "Suqian", "Shishou", "Hengshui", "Danjiangkou", "Fujin", "Sanya", "Guangshui", "Huangshan", "Xingcheng", "Zhucheng", "Kunshan", "Haining", "Pingliang", "Fuqing", "Xinzhou", "Jieyang", "Zhangjiagang", "Tong Xian", "Ya´an", "Jinzhou", "Emeishan", "Enshi", "Bose", "Yuzhou", "Kaiyuan", "Tumen", "Putian", "Linhai", "Xilin Hot", "Shaowu", "Junan", "Huaying", "Pingyi", "Huangyan" ],
+  "poblacio" : 175953614
+}, {
+  "nom" : "Martinique",
+  "ciutats" : [ "Fort-de-France" ],
+  "poblacio" : 94050
+}, {
+  "nom" : "Saint Pierre and Miquelon",
+  "ciutats" : [ "Saint-Pierre" ],
+  "poblacio" : 5808
+}, {
+  "nom" : "Kyrgyzstan",
+  "ciutats" : [ "Bishkek", "Osh" ],
+  "poblacio" : 812100
+}, {
+  "nom" : "Bhutan",
+  "ciutats" : [ "Thimphu" ],
+  "poblacio" : 22000
+}, {
+  "nom" : "Romania",
+  "ciutats" : [ "Bucuresti", "Iasi", "Constanta", "Cluj-Napoca", "Galati", "Timisoara", "Brasov", "Craiova", "Ploiesti", "Braila", "Oradea", "Bacau", "Pitesti", "Arad", "Sibiu", "Târgu Mures", "Baia Mare", "Buzau", "Satu Mare", "Botosani", "Piatra Neamt", "Râmnicu Vâlcea", "Suceava", "Drobeta-Turnu Severin", "Târgoviste", "Focsani", "Târgu Jiu", "Tulcea", "Resita" ],
+  "poblacio" : 7469006
+}, {
+  "nom" : "Togo",
+  "ciutats" : [ "Lomé" ],
+  "poblacio" : 375000
+}, {
+  "nom" : "Philippines",
+  "ciutats" : [ "Quezon", "Manila", "Kalookan", "Davao", "Cebu", "Zamboanga", "Pasig", "Valenzuela", "Las Piñas", "Antipolo", "Taguig", "Cagayan de Oro", "Parañaque", "Makati", "Bacolod", "General Santos", "Marikina", "Dasmariñas", "Muntinlupa", "Iloilo", "Pasay", "Malabon", "San José del Monte", "Bacoor", "Iligan", "Calamba", "Mandaluyong", "Butuan", "Angeles", "Tarlac", "Mandaue", "Baguio", "Batangas", "Cainta", "San Pedro", "Navotas", "Cabanatuan", "San Fernando", "Lipa", "Lapu-Lapu", "San Pablo", "Biñan", "Taytay", "Lucena", "Imus", "Olongapo", "Binangonan", "Santa Rosa", "Tagum", "Tacloban", "Malolos", "Mabalacat", "Cotabato", "Meycauayan", "Puerto Princesa", "Legazpi", "Silang", "Ormoc", "San Carlos", "Kabankalan", "Talisay", "Valencia", "Calbayog", "Santa Maria", "Pagadian", "Cadiz", "Bago", "Toledo", "Naga", "San Mateo", "Panabo", "Koronadal", "Marawi", "Dagupan", "Sagay", "Roxas", "Lubao", "Digos", "San Miguel", "Malaybalay", "Tuguegarao", "Ilagan", "Baliuag", "Surigao", "San Carlos", "San Juan del Monte", "Tanauan", "Concepcion", "Rodriguez (Montalban)", "Sariaya", "Malasiqui", "General Mariano Alvarez", "Urdaneta", "Hagonoy", "San Jose", "Polomolok", "Santiago", "Tanza", "Ozamis", "Mexico", "San Jose", "Silay", "General Trias", "Tabaco", "Cabuyao", "Calapan", "Mati", "Midsayap", "Cauayan", "Gingoog", "Dumaguete", "San Fernando", "Arayat", "Bayawan (Tulong)", "Kidapawan", "Daraga (Locsin)", "Marilao", "Malita", "Dipolog", "Cavite", "Danao", "Bislig", "Talavera", "Guagua", "Bayambang", "Nasugbu", "Baybay", "Capas", "Sultan Kudarat", "Laoag", "Bayugan", "Malungon", "Santa Cruz", "Sorsogon", "Candelaria", "Ligao" ],
+  "poblacio" : 30934791
+}, {
+  "nom" : "Uzbekistan",
+  "ciutats" : [ "Toskent", "Namangan", "Samarkand", "Andijon", "Buhoro", "Karsi", "Nukus", "Kükon", "Fargona", "Circik", "Margilon", "Ürgenc", "Angren", "Cizah", "Navoi", "Olmalik", "Termiz" ],
+  "poblacio" : 5183900
+}, {
+  "nom" : "Holy See (Vatican City State)",
+  "ciutats" : [ "Città del Vaticano" ],
+  "poblacio" : 455
+}, {
+  "nom" : "Pitcairn",
+  "ciutats" : [ "Adamstown" ],
+  "poblacio" : 42
+}, {
+  "nom" : "Zimbabwe",
+  "ciutats" : [ "Harare", "Bulawayo", "Chitungwiza", "Mount Darwin", "Mutare", "Gweru" ],
+  "poblacio" : 2730420
+}, {
+  "nom" : "Dominica",
+  "ciutats" : [ "Roseau" ],
+  "poblacio" : 16243
+}, {
+  "nom" : "Indonesia",
+  "ciutats" : [ "Jakarta", "Surabaya", "Bandung", "Medan", "Palembang", "Tangerang", "Semarang", "Ujung Pandang", "Malang", "Bandar Lampung", "Bekasi", "Padang", "Surakarta", "Banjarmasin", "Pekan Baru", "Denpasar", "Yogyakarta", "Pontianak", "Samarinda", "Jambi", "Depok", "Cimahi", "Balikpapan", "Manado", "Mataram", "Pekalongan", "Tegal", "Bogor", "Ciputat", "Pondokgede", "Cirebon", "Kediri", "Ambon", "Jember", "Cilacap", "Cimanggis", "Pematang Siantar", "Purwokerto", "Ciomas", "Tasikmalaya", "Madiun", "Bengkulu", "Karawang", "Banda Aceh", "Palu", "Pasuruan", "Kupang", "Tebing Tinggi", "Percut Sei Tuan", "Binjai", "Sukabumi", "Waru", "Pangkal Pinang", "Magelang", "Blitar", "Serang", "Probolinggo", "Cilegon", "Cianjur", "Ciparay", "Lhokseumawe", "Taman", "Depok", "Citeureup", "Pemalang", "Klaten", "Salatiga", "Cibinong", "Palangka Raya", "Mojokerto", "Purwakarta", "Garut", "Kudus", "Kendari", "Jaya Pura", "Gorontalo", "Majalaya", "Pondok Aren", "Jombang", "Sunggal", "Batam", "Padang Sidempuan", "Sawangan", "Banyuwangi", "Tanjung Pinang" ],
+  "poblacio" : 37485695
+}, {
+  "nom" : "Benin",
+  "ciutats" : [ "Cotonou", "Porto-Novo", "Djougou", "Parakou" ],
+  "poblacio" : 968503
+}, {
+  "nom" : "Angola",
+  "ciutats" : [ "Luanda", "Huambo", "Lobito", "Benguela", "Namibe" ],
+  "poblacio" : 2561600
+}, {
+  "nom" : "Sudan",
+  "ciutats" : [ "Omdurman", "Khartum", "Sharq al-Nil", "Port Sudan", "Kassala", "Obeid", "Nyala", "Wad Madani", "al-Qadarif", "Kusti", "al-Fashir", "Juba" ],
+  "poblacio" : 4752187
+}, {
+  "nom" : "East Timor",
+  "ciutats" : [ "Dili" ],
+  "poblacio" : 47900
+}, {
+  "nom" : "Portugal",
+  "ciutats" : [ "Lisboa", "Porto", "Amadora", "Coímbra", "Braga" ],
+  "poblacio" : 1145011
+}, {
+  "nom" : "New Caledonia",
+  "ciutats" : [ "Nouméa" ],
+  "poblacio" : 76293
+}, {
+  "nom" : "Grenada",
+  "ciutats" : [ "Saint George´s" ],
+  "poblacio" : 4621
+}, {
+  "nom" : "North Korea",
+  "ciutats" : [ "Pyongyang", "Hamhung", "Chongjin", "Nampo", "Sinuiju", "Wonsan", "Phyongsong", "Sariwon", "Haeju", "Kanggye", "Kimchaek", "Hyesan", "Kaesong" ],
+  "poblacio" : 6476751
+}, {
+  "nom" : "Cayman Islands",
+  "ciutats" : [ "George Town" ],
+  "poblacio" : 19600
+}, {
+  "nom" : "Greece",
+  "ciutats" : [ "Athenai", "Thessaloniki", "Pireus", "Patras", "Peristerion", "Herakleion", "Kallithea", "Larisa" ],
+  "poblacio" : 1972843
+}, {
+  "nom" : "Latvia",
+  "ciutats" : [ "Riga", "Daugavpils", "Liepaja" ],
+  "poblacio" : 968596
+}, {
+  "nom" : "Mongolia",
+  "ciutats" : [ "Ulan Bator" ],
+  "poblacio" : 773700
+}, {
+  "nom" : "Iran",
+  "ciutats" : [ "Teheran", "Mashhad", "Esfahan", "Tabriz", "Shiraz", "Karaj", "Ahvaz", "Qom", "Kermanshah", "Urmia", "Zahedan", "Rasht", "Hamadan", "Kerman", "Arak", "Ardebil", "Yazd", "Qazvin", "Zanjan", "Sanandaj", "Bandar-e-Abbas", "Khorramabad", "Eslamshahr", "Borujerd", "Abadan", "Dezful", "Kashan", "Sari", "Gorgan", "Najafabad", "Sabzevar", "Khomeynishahr", "Amol", "Neyshabur", "Babol", "Khoy", "Malayer", "Bushehr", "Qaemshahr", "Qarchak", "Qods", "Sirjan", "Bojnurd", "Maragheh", "Birjand", "Ilam", "Bukan", "Masjed-e-Soleyman", "Saqqez", "Gonbad-e Qabus", "Saveh", "Mahabad", "Varamin", "Andimeshk", "Khorramshahr", "Shahrud", "Marv Dasht", "Zabol", "Shahr-e Kord", "Bandar-e Anzali", "Rafsanjan", "Marand", "Torbat-e Heydariyeh", "Jahrom", "Semnan", "Miandoab", "Qomsheh" ],
+  "poblacio" : 26032990
+}, {
+  "nom" : "Morocco",
+  "ciutats" : [ "Casablanca", "Rabat", "Marrakech", "Fès", "Tanger", "Salé", "Meknès", "Oujda", "Kénitra", "Tétouan", "Safi", "Agadir", "Mohammedia", "Khouribga", "Beni-Mellal", "Témara", "El Jadida", "Nador", "Ksar el Kebir", "Settat", "Taza", "El Araich" ],
+  "poblacio" : 8757562
+}, {
+  "nom" : "Guatemala",
+  "ciutats" : [ "Ciudad de Guatemala", "Mixco", "Villa Nueva", "Quetzaltenango" ],
+  "poblacio" : 1225188
+}, {
+  "nom" : "Guyana",
+  "ciutats" : [ "Georgetown" ],
+  "poblacio" : 254000
+}, {
+  "nom" : "Iraq",
+  "ciutats" : [ "Baghdad", "Mosul", "Irbil", "Kirkuk", "Basra", "al-Sulaymaniya", "al-Najaf", "Karbala", "al-Hilla", "al-Nasiriya", "al-Amara", "al-Diwaniya", "al-Ramadi", "al-Kut", "Baquba" ],
+  "poblacio" : 8926041
+}, {
+  "nom" : "Chile",
+  "ciutats" : [ "Santiago de Chile", "Puente Alto", "Viña del Mar", "Valparaíso", "Talcahuano", "Antofagasta", "San Bernardo", "Temuco", "Concepción", "Rancagua", "Arica", "Talca", "Chillán", "Iquique", "Los Angeles", "Puerto Montt", "Coquimbo", "Osorno", "La Serena", "Calama", "Valdivia", "Punta Arenas", "Copiapó", "Quilpué", "Curicó", "Ovalle", "Coronel", "San Pedro de la Paz", "Melipilla" ],
+  "poblacio" : 9717970
+}, {
+  "nom" : "Nepal",
+  "ciutats" : [ "Kathmandu", "Biratnagar", "Pokhara", "Lalitapur", "Birgunj" ],
+  "poblacio" : 1132403
+}, {
+  "nom" : "Fiji Islands",
+  "ciutats" : [ "Suva" ],
+  "poblacio" : 77366
+}, {
+  "nom" : "Tanzania",
+  "ciutats" : [ "Dar es Salaam", "Dodoma", "Mwanza", "Zanzibar", "Tanga", "Mbeya", "Morogoro", "Arusha", "Moshi", "Tabora" ],
+  "poblacio" : 2944034
+}, {
+  "nom" : "Ukraine",
+  "ciutats" : [ "Kyiv", "Harkova [Harkiv]", "Dnipropetrovsk", "Donetsk", "Odesa", "Zaporizzja", "Lviv", "Kryvyi Rig", "Mykolajiv", "Mariupol", "Lugansk", "Vinnytsja", "Makijivka", "Herson", "Sevastopol", "Simferopol", "Pultava [Poltava]", "Tšernigiv", "Tšerkasy", "Gorlivka", "Zytomyr", "Sumy", "Dniprodzerzynsk", "Kirovograd", "Hmelnytskyi", "Tšernivtsi", "Rivne", "Krementšuk", "Ivano-Frankivsk", "Ternopil", "Lutsk", "Bila Tserkva", "Kramatorsk", "Melitopol", "Kertš", "Nikopol", "Berdjansk", "Pavlograd", "Sjeverodonetsk", "Slovjansk", "Uzgorod", "Altševsk", "Lysytšansk", "Jevpatorija", "Kamjanets-Podilskyi", "Jenakijeve", "Krasnyi Lutš", "Stahanov", "Oleksandrija", "Konotop", "Kostjantynivka", "Berdytšiv", "Izmajil", "Šostka", "Uman", "Brovary", "Mukatševe" ],
+  "poblacio" : 20074000
+}, {
+  "nom" : "Ghana",
+  "ciutats" : [ "Accra", "Kumasi", "Tamale", "Tema", "Sekondi-Takoradi" ],
+  "poblacio" : 1819889
+}, {
+  "nom" : "Anguilla",
+  "ciutats" : [ "South Hill", "The Valley" ],
+  "poblacio" : 1556
+}, {
+  "nom" : "India",
+  "ciutats" : [ "Mumbai (Bombay)", "Delhi", "Calcutta [Kolkata]", "Chennai (Madras)", "Hyderabad", "Ahmedabad", "Bangalore", "Kanpur", "Nagpur", "Lucknow", "Pune", "Surat", "Jaipur", "Indore", "Bhopal", "Ludhiana", "Vadodara (Baroda)", "Kalyan", "Madurai", "Haora (Howrah)", "Varanasi (Benares)", "Patna", "Srinagar", "Agra", "Coimbatore", "Thane (Thana)", "Allahabad", "Meerut", "Vishakhapatnam", "Jabalpur", "Amritsar", "Faridabad", "Vijayawada", "Gwalior", "Jodhpur", "Nashik (Nasik)", "Hubli-Dharwad", "Solapur (Sholapur)", "Ranchi", "Bareilly", "Guwahati (Gauhati)", "Shambajinagar (Aurangabad)", "Cochin (Kochi)", "Rajkot", "Kota", "Thiruvananthapuram (Trivandrum", "Pimpri-Chinchwad", "Jalandhar (Jullundur)", "Gorakhpur", "Chandigarh", "Mysore", "Aligarh", "Guntur", "Jamshedpur", "Ghaziabad", "Warangal", "Raipur", "Moradabad", "Durgapur", "Amravati", "Calicut (Kozhikode)", "Bikaner", "Bhubaneswar", "Kolhapur", "Kataka (Cuttack)", "Ajmer", "Bhavnagar", "Tiruchirapalli", "Bhilai", "Bhiwandi", "Saharanpur", "Ulhasnagar", "Salem", "Ujjain", "Malegaon", "Jamnagar", "Bokaro Steel City", "Akola", "Belgaum", "Rajahmundry", "Nellore", "Udaipur", "New Bombay", "Bhatpara", "Gulbarga", "New Delhi", "Jhansi", "Gaya", "Kakinada", "Dhule (Dhulia)", "Panihati", "Nanded (Nander)", "Mangalore", "Dehra Dun", "Kamarhati", "Davangere", "Asansol", "Bhagalpur", "Bellary", "Barddhaman (Burdwan)", "Rampur", "Jalgaon", "Muzaffarpur", "Nizamabad", "Muzaffarnagar", "Patiala", "Shahjahanpur", "Kurnool", "Tiruppur (Tirupper)", "Rohtak", "South Dum Dum", "Mathura", "Chandrapur", "Barahanagar (Baranagar)", "Darbhanga", "Siliguri (Shiliguri)", "Raurkela", "Ambattur", "Panipat", "Firozabad", "Ichalkaranji", "Jammu", "Ramagundam", "Eluru", "Brahmapur", "Alwar", "Pondicherry", "Thanjavur", "Bihar Sharif", "Tuticorin", "Imphal", "Latur", "Sagar", "Farrukhabad-cum-Fatehgarh", "Sangli", "Parbhani", "Nagar Coil", "Bijapur", "Kukatpalle", "Bally", "Bhilwara", "Ratlam", "Avadi", "Dindigul", "Ahmadnagar", "Bilaspur", "Shimoga", "Kharagpur", "Mira Bhayandar", "Vellore", "Jalna", "Burnpur", "Anantapur", "Allappuzha (Alleppey)", "Tirupati", "Karnal", "Burhanpur", "Hisar (Hissar)", "Tiruvottiyur", "Mirzapur-cum-Vindhyachal", "Secunderabad", "Nadiad", "Dewas", "Murwara (Katni)", "Ganganagar", "Vizianagaram", "Erode", "Machilipatnam (Masulipatam)", "Bhatinda (Bathinda)", "Raichur", "Agartala", "Arrah (Ara)", "Satna", "Lalbahadur Nagar", "Aizawl", "Uluberia", "Katihar", "Cuddalore", "Hugli-Chinsurah", "Dhanbad", "Raiganj", "Sambhal", "Durg", "Munger (Monghyr)", "Kanchipuram", "North Dum Dum", "Karimnagar", "Bharatpur", "Sikar", "Hardwar (Haridwar)", "Dabgram", "Morena", "Noida", "Hapur", "Bhusawal", "Khandwa", "Yamuna Nagar", "Sonipat (Sonepat)", "Tenali", "Raurkela Civil Township", "Kollam (Quilon)", "Kumbakonam", "Ingraj Bazar (English Bazar)", "Timkur", "Amroha", "Serampore", "Chapra", "Pali", "Maunath Bhanjan", "Adoni", "Jaunpur", "Tirunelveli", "Bahraich", "Gadag Betigeri", "Proddatur", "Chittoor", "Barrackpur", "Bharuch (Broach)", "Naihati", "Shillong", "Sambalpur", "Junagadh", "Rae Bareli", "Rewa", "Gurgaon", "Khammam", "Bulandshahr", "Navsari", "Malkajgiri", "Midnapore (Medinipur)", "Miraj", "Raj Nandgaon", "Alandur", "Puri", "Navadwip", "Sirsa", "Korba", "Faizabad", "Etawah", "Pathankot", "Gandhinagar", "Palghat (Palakkad)", "Veraval", "Hoshiarpur", "Ambala", "Sitapur", "Bhiwani", "Cuddapah", "Bhimavaram", "Krishnanagar", "Chandannagar", "Mandya", "Dibrugarh", "Nandyal", "Balurghat", "Neyveli", "Fatehpur", "Mahbubnagar", "Budaun", "Porbandar", "Silchar", "Berhampore (Baharampur)", "Purnea (Purnia)", "Bankura", "Rajapalaiyam", "Titagarh", "Halisahar", "Hathras", "Bhir (Bid)", "Pallavaram", "Anand", "Mango", "Santipur", "Bhind", "Gondiya", "Tiruvannamalai", "Yeotmal (Yavatmal)", "Kulti-Barakar", "Moga", "Shivapuri", "Bidar", "Guntakal", "Unnao", "Barasat", "Tambaram", "Abohar", "Pilibhit", "Valparai", "Gonda", "Surendranagar", "Qutubullapur", "Beawar", "Hindupur", "Gandhidham", "Haldwani-cum-Kathgodam", "Tellicherry (Thalassery)", "Wardha", "Rishra", "Bhuj", "Modinagar", "Gudivada", "Basirhat", "Uttarpara-Kotrung", "Ongole", "North Barrackpur", "Guna", "Haldia", "Habra", "Kanchrapara", "Tonk", "Champdani", "Orai", "Pudukkottai", "Sasaram", "Hazaribag", "Palayankottai", "Banda", "Godhra", "Hospet", "Ashoknagar-Kalyangarh", "Achalpur", "Patan", "Mandasor", "Damoh", "Satara", "Meerut Cantonment", "Dehri", "Delhi Cantonment", "Chhindwara", "Bansberia", "Nagaon", "Kanpur Cantonment", "Vidisha", "Bettiah", "Purulia", "Hassan", "Ambala Sadar", "Baidyabati", "Morvi", "Raigarh", "Vejalpur" ],
+  "poblacio" : 123298526
+}, {
+  "nom" : "Canada",
+  "ciutats" : [ "Montréal", "Calgary", "Toronto", "North York", "Winnipeg", "Edmonton", "Mississauga", "Scarborough", "Vancouver", "Etobicoke", "London", "Hamilton", "Ottawa", "Laval", "Surrey", "Brampton", "Windsor", "Saskatoon", "Kitchener", "Markham", "Regina", "Burnaby", "Québec", "York", "Richmond", "Vaughan", "Burlington", "Oshawa", "Oakville", "Saint Catharines", "Longueuil", "Richmond Hill", "Thunder Bay", "Nepean", "Cape Breton", "East York", "Halifax", "Cambridge", "Gloucester", "Abbotsford", "Guelph", "Saint John´s", "Coquitlam", "Saanich", "Gatineau", "Delta", "Sudbury", "Kelowna", "Barrie" ],
+  "poblacio" : 12673840
+}, {
+  "nom" : "Maldives",
+  "ciutats" : [ "Male" ],
+  "poblacio" : 71000
+}, {
+  "nom" : "Turkey",
+  "ciutats" : [ "Istanbul", "Ankara", "Izmir", "Adana", "Bursa", "Gaziantep", "Konya", "Mersin (Içel)", "Antalya", "Diyarbakir", "Kayseri", "Eskisehir", "Sanliurfa", "Samsun", "Malatya", "Gebze", "Denizli", "Sivas", "Erzurum", "Tarsus", "Kahramanmaras", "Elâzig", "Van", "Sultanbeyli", "Izmit (Kocaeli)", "Manisa", "Batman", "Balikesir", "Sakarya (Adapazari)", "Iskenderun", "Osmaniye", "Çorum", "Kütahya", "Hatay (Antakya)", "Kirikkale", "Adiyaman", "Trabzon", "Ordu", "Aydin", "Usak", "Edirne", "Çorlu", "Isparta", "Karabük", "Kilis", "Alanya", "Kiziltepe", "Zonguldak", "Siirt", "Viransehir", "Tekirdag", "Karaman", "Afyon", "Aksaray", "Ceyhan", "Erzincan", "Bismil", "Nazilli", "Tokat", "Kars", "Inegöl", "Bandirma" ],
+  "poblacio" : 28327028
+}, {
+  "nom" : "Belgium",
+  "ciutats" : [ "Antwerpen", "Gent", "Charleroi", "Liège", "Bruxelles [Brussel]", "Brugge", "Schaerbeek", "Namur", "Mons" ],
+  "poblacio" : 1609322
+}, {
+  "nom" : "Taiwan",
+  "ciutats" : [ "Taipei", "Kaohsiung", "Taichung", "Tainan", "Panchiao", "Chungho", "Keelung (Chilung)", "Sanchung", "Hsinchuang", "Hsinchu", "Chungli", "Fengshan", "Taoyuan", "Chiayi", "Hsintien", "Changhwa", "Yungho", "Tucheng", "Pingtung", "Yungkang", "Pingchen", "Tali", "Taiping", "Pate", "Fengyuan", "Luchou", "Hsichuh", "Shulin", "Yuanlin", "Yangmei", "Taliao", "Kueishan", "Tanshui", "Taitung", "Hualien", "Nantou", "Lungtan", "Touliu", "Tsaotun", "Kangshan", "Ilan", "Miaoli" ],
+  "poblacio" : 13569336
+}, {
+  "nom" : "Trinidad and Tobago",
+  "ciutats" : [ "Chaguanas", "Port-of-Spain" ],
+  "poblacio" : 99997
+}, {
+  "nom" : "South Africa",
+  "ciutats" : [ "Cape Town", "Soweto", "Johannesburg", "Port Elizabeth", "Pretoria", "Inanda", "Durban", "Vanderbijlpark", "Kempton Park", "Alberton", "Pinetown", "Pietermaritzburg", "Benoni", "Randburg", "Umlazi", "Bloemfontein", "Vereeniging", "Wonderboom", "Roodepoort", "Boksburg", "Klerksdorp", "Soshanguve", "Newcastle", "East London", "Welkom", "Kimberley", "Uitenhage", "Chatsworth", "Mdantsane", "Krugersdorp", "Botshabelo", "Brakpan", "Witbank", "Oberholzer", "Germiston", "Springs", "Westonaria", "Randfontein", "Paarl", "Potchefstroom", "Rustenburg", "Nigel", "George", "Ladysmith" ],
+  "poblacio" : 15196370
+}, {
+  "nom" : "Bermuda",
+  "ciutats" : [ "Saint George", "Hamilton" ],
+  "poblacio" : 3000
+}, {
+  "nom" : "Central African Republic",
+  "ciutats" : [ "Bangui" ],
+  "poblacio" : 524000
+}, {
+  "nom" : "Jamaica",
+  "ciutats" : [ "Spanish Town", "Kingston", "Portmore" ],
+  "poblacio" : 314140
+}, {
+  "nom" : "Peru",
+  "ciutats" : [ "Lima", "Arequipa", "Trujillo", "Chiclayo", "Callao", "Iquitos", "Chimbote", "Huancayo", "Piura", "Cusco", "Pucallpa", "Tacna", "Ica", "Sullana", "Juliaca", "Huánuco", "Ayacucho", "Chincha Alta", "Cajamarca", "Puno", "Ventanilla", "Castilla" ],
+  "poblacio" : 12147242
+}, {
+  "nom" : "Turkmenistan",
+  "ciutats" : [ "Ashgabat", "Chärjew", "Dashhowuz", "Mary" ],
+  "poblacio" : 972600
+}, {
+  "nom" : "Germany",
+  "ciutats" : [ "Berlin", "Hamburg", "Munich [München]", "Köln", "Frankfurt am Main", "Essen", "Dortmund", "Stuttgart", "Düsseldorf", "Bremen", "Duisburg", "Hannover", "Leipzig", "Nürnberg", "Dresden", "Bochum", "Wuppertal", "Bielefeld", "Mannheim", "Bonn", "Gelsenkirchen", "Karlsruhe", "Wiesbaden", "Münster", "Mönchengladbach", "Chemnitz", "Augsburg", "Halle/Saale", "Braunschweig", "Aachen", "Krefeld", "Magdeburg", "Kiel", "Oberhausen", "Lübeck", "Hagen", "Rostock", "Freiburg im Breisgau", "Erfurt", "Kassel", "Saarbrücken", "Mainz", "Hamm", "Herne", "Mülheim an der Ruhr", "Solingen", "Osnabrück", "Ludwigshafen am Rhein", "Leverkusen", "Oldenburg", "Neuss", "Heidelberg", "Darmstadt", "Paderborn", "Potsdam", "Würzburg", "Regensburg", "Recklinghausen", "Göttingen", "Bremerhaven", "Wolfsburg", "Bottrop", "Remscheid", "Heilbronn", "Pforzheim", "Offenbach am Main", "Ulm", "Ingolstadt", "Gera", "Salzgitter", "Cottbus", "Reutlingen", "Fürth", "Siegen", "Koblenz", "Moers", "Bergisch Gladbach", "Zwickau", "Hildesheim", "Witten", "Schwerin", "Erlangen", "Kaiserslautern", "Trier", "Jena", "Iserlohn", "Gütersloh", "Marl", "Lünen", "Düren", "Ratingen", "Velbert", "Esslingen am Neckar" ],
+  "poblacio" : 26245483
+}, {
+  "nom" : "Tokelau",
+  "ciutats" : [ "Fakaofo" ],
+  "poblacio" : 300
+}, {
+  "nom" : "Hong Kong",
+  "ciutats" : [ "Kowloon and New Kowloon", "Victoria" ],
+  "poblacio" : 3300633
+}, {
+  "nom" : "Guinea",
+  "ciutats" : [ "Conakry" ],
+  "poblacio" : 1090610
+}, {
+  "nom" : "United States",
+  "ciutats" : [ "New York", "Los Angeles", "Chicago", "Houston", "Philadelphia", "Phoenix", "San Diego", "Dallas", "San Antonio", "Detroit", "San Jose", "Indianapolis", "San Francisco", "Jacksonville", "Columbus", "Austin", "Baltimore", "Memphis", "Milwaukee", "Boston", "Washington", "Nashville-Davidson", "El Paso", "Seattle", "Denver", "Charlotte", "Fort Worth", "Portland", "Oklahoma City", "Tucson", "New Orleans", "Las Vegas", "Cleveland", "Long Beach", "Albuquerque", "Kansas City", "Fresno", "Virginia Beach", "Atlanta", "Sacramento", "Oakland", "Mesa", "Tulsa", "Omaha", "Minneapolis", "Honolulu", "Miami", "Colorado Springs", "Saint Louis", "Wichita", "Santa Ana", "Pittsburgh", "Arlington", "Cincinnati", "Anaheim", "Toledo", "Tampa", "Buffalo", "Saint Paul", "Corpus Christi", "Aurora", "Raleigh", "Newark", "Lexington-Fayette", "Anchorage", "Louisville", "Riverside", "Saint Petersburg", "Bakersfield", "Stockton", "Birmingham", "Jersey City", "Norfolk", "Baton Rouge", "Hialeah", "Lincoln", "Greensboro", "Plano", "Rochester", "Glendale", "Akron", "Garland", "Madison", "Fort Wayne", "Fremont", "Scottsdale", "Montgomery", "Shreveport", "Augusta-Richmond County", "Lubbock", "Chesapeake", "Mobile", "Des Moines", "Grand Rapids", "Richmond", "Yonkers", "Spokane", "Glendale", "Tacoma", "Irving", "Huntington Beach", "Modesto", "Durham", "Columbus", "Orlando", "Boise City", "Winston-Salem", "San Bernardino", "Jackson", "Little Rock", "Salt Lake City", "Reno", "Newport News", "Chandler", "Laredo", "Henderson", "Arlington", "Knoxville", "Amarillo", "Providence", "Chula Vista", "Worcester", "Oxnard", "Dayton", "Garden Grove", "Oceanside", "Tempe", "Huntsville", "Ontario", "Chattanooga", "Fort Lauderdale", "Springfield", "Springfield", "Santa Clarita", "Salinas", "Tallahassee", "Rockford", "Pomona", "Metairie", "Paterson", "Overland Park", "Santa Rosa", "Syracuse", "Kansas City", "Hampton", "Lakewood", "Vancouver", "Irvine", "Aurora", "Moreno Valley", "Pasadena", "Hayward", "Brownsville", "Bridgeport", "Hollywood", "Warren", "Torrance", "Eugene", "Pembroke Pines", "Salem", "Pasadena", "Escondido", "Sunnyvale", "Savannah", "Fontana", "Orange", "Naperville", "Alexandria", "Rancho Cucamonga", "Grand Prairie", "East Los Angeles", "Fullerton", "Corona", "Flint", "Paradise", "Mesquite", "Sterling Heights", "Sioux Falls", "New Haven", "Topeka", "Concord", "Evansville", "Hartford", "Fayetteville", "Cedar Rapids", "Elizabeth", "Lansing", "Lancaster", "Fort Collins", "Coral Springs", "Stamford", "Thousand Oaks", "Vallejo", "Palmdale", "Columbia", "El Monte", "Abilene", "North Las Vegas", "Ann Arbor", "Beaumont", "Waco", "Macon", "Independence", "Peoria", "Inglewood", "Springfield", "Simi Valley", "Lafayette", "Gilbert", "Carrollton", "Bellevue", "West Valley City", "Clarksville", "Costa Mesa", "Peoria", "South Bend", "Downey", "Waterbury", "Manchester", "Allentown", "McAllen", "Joliet", "Lowell", "Provo", "West Covina", "Wichita Falls", "Erie", "Daly City", "Citrus Heights", "Norwalk", "Gary", "Berkeley", "Santa Clara", "Green Bay", "Cape Coral", "Arvada", "Pueblo", "Sandy", "Athens-Clarke County", "Cambridge", "Westminster", "San Buenaventura", "Portsmouth", "Livonia", "Burbank", "Clearwater", "Midland", "Davenport", "Mission Viejo", "Miami Beach", "Sunrise Manor", "New Bedford", "El Cajon", "Norman", "Richmond", "Albany", "Brockton", "Roanoke", "Billings", "Compton", "Gainesville", "Fairfield", "Arden-Arcade", "San Mateo", "Visalia", "Boulder", "Cary", "Santa Monica", "Fall River", "Kenosha", "Elgin", "Odessa", "Carson", "Charleston" ],
+  "poblacio" : 78625774
+}, {
+  "nom" : "Micronesia, Federated States of",
+  "ciutats" : [ "Weno", "Palikir" ],
+  "poblacio" : 30600
+}, {
+  "nom" : "Somalia",
+  "ciutats" : [ "Mogadishu", "Hargeysa", "Kismaayo" ],
+  "poblacio" : 1177000
+}, {
+  "nom" : "Chad",
+  "ciutats" : [ "N´Djaména", "Moundou" ],
+  "poblacio" : 630465
+}, {
+  "nom" : "Sao Tome and Principe",
+  "ciutats" : [ "São Tomé" ],
+  "poblacio" : 49541
+}, {
+  "nom" : "Thailand",
+  "ciutats" : [ "Bangkok", "Nonthaburi", "Nakhon Ratchasima", "Chiang Mai", "Udon Thani", "Hat Yai", "Khon Kaen", "Pak Kret", "Nakhon Sawan", "Ubon Ratchathani", "Songkhla", "Nakhon Pathom" ],
+  "poblacio" : 7953161
+}, {
+  "nom" : "Equatorial Guinea",
+  "ciutats" : [ "Malabo" ],
+  "poblacio" : 40000
+}, {
+  "nom" : "Kiribati",
+  "ciutats" : [ "Bikenibeu", "Bairiki" ],
+  "poblacio" : 7281
+}, {
+  "nom" : "Costa Rica",
+  "ciutats" : [ "San José" ],
+  "poblacio" : 339131
+}, {
+  "nom" : "Vietnam",
+  "ciutats" : [ "Ho Chi Minh City", "Hanoi", "Haiphong", "Da Nang", "Biên Hoa", "Nha Trang", "Hue", "Can Tho", "Cam Pha", "Nam Dinh", "Quy Nhon", "Vung Tau", "Rach Gia", "Long Xuyen", "Thai Nguyen", "Hong Gai", "Phan Thiêt", "Cam Ranh", "Vinh", "My Tho", "Da Lat", "Buon Ma Thuot" ],
+  "poblacio" : 9364813
+}, {
+  "nom" : "Kuwait",
+  "ciutats" : [ "al-Salimiya", "Jalib al-Shuyukh", "Kuwait" ],
+  "poblacio" : 261252
+}, {
+  "nom" : "Nigeria",
+  "ciutats" : [ "Lagos", "Ibadan", "Ogbomosho", "Kano", "Oshogbo", "Ilorin", "Abeokuta", "Port Harcourt", "Zaria", "Ilesha", "Onitsha", "Iwo", "Ado-Ekiti", "Abuja", "Kaduna", "Mushin", "Maiduguri", "Enugu", "Ede", "Aba", "Ife", "Ila", "Oyo", "Ikerre", "Benin City", "Iseyin", "Katsina", "Jos", "Sokoto", "Ilobu", "Offa", "Ikorodu", "Ilawe-Ekiti", "Owo", "Ikirun", "Shaki", "Calabar", "Ondo", "Akure", "Gusau", "Ijebu-Ode", "Effon-Alaiye", "Kumo", "Shomolu", "Oka-Akoko", "Ikare", "Sapele", "Deba Habe", "Minna", "Warri", "Bida", "Ikire", "Makurdi", "Lafia", "Inisa", "Shagamu", "Awka", "Gombe", "Igboho", "Ejigbo", "Agege", "Ise-Ekiti", "Ugep", "Epe" ],
+  "poblacio" : 17366900
+}, {
+  "nom" : "Croatia",
+  "ciutats" : [ "Zagreb", "Split", "Rijeka", "Osijek" ],
+  "poblacio" : 1168883
+}, {
+  "nom" : "Cook Islands",
+  "ciutats" : [ "Avarua" ],
+  "poblacio" : 11900
+}, {
+  "nom" : "Sri Lanka",
+  "ciutats" : [ "Colombo", "Dehiwala", "Moratuwa", "Jaffna", "Kandy", "Sri Jayawardenepura Kotte", "Negombo" ],
+  "poblacio" : 1545000
+}, {
+  "nom" : "Uruguay",
+  "ciutats" : [ "Montevideo" ],
+  "poblacio" : 1236000
+}, {
+  "nom" : "United Kingdom",
+  "ciutats" : [ "London", "Birmingham", "Glasgow", "Liverpool", "Edinburgh", "Sheffield", "Manchester", "Leeds", "Bristol", "Cardiff", "Coventry", "Leicester", "Bradford", "Belfast", "Nottingham", "Kingston upon Hull", "Plymouth", "Stoke-on-Trent", "Wolverhampton", "Derby", "Swansea", "Southampton", "Aberdeen", "Northampton", "Dudley", "Portsmouth", "Newcastle upon Tyne", "Sunderland", "Luton", "Swindon", "Southend-on-Sea", "Walsall", "Bournemouth", "Peterborough", "Brighton", "Blackpool", "Dundee", "West Bromwich", "Reading", "Oldbury/Smethwick (Warley)", "Middlesbrough", "Huddersfield", "Oxford", "Poole", "Bolton", "Blackburn", "Newport", "Preston", "Stockport", "Norwich", "Rotherham", "Cambridge", "Watford", "Ipswich", "Slough", "Exeter", "Cheltenham", "Gloucester", "Saint Helens", "Sutton Coldfield", "York", "Oldham", "Basildon", "Worthing", "Chelmsford", "Colchester", "Crawley", "Gillingham", "Solihull", "Rochdale", "Birkenhead", "Worcester", "Hartlepool", "Halifax", "Woking/Byfleet", "Southport", "Maidstone", "Eastbourne", "Grimsby", "Saint Helier", "Douglas" ],
+  "poblacio" : 22436673
+}, {
+  "nom" : "Switzerland",
+  "ciutats" : [ "Zürich", "Geneve", "Basel", "Bern", "Lausanne" ],
+  "poblacio" : 914200
+}, {
+  "nom" : "Samoa",
+  "ciutats" : [ "Apia" ],
+  "poblacio" : 35900
+}, {
+  "nom" : "Spain",
+  "ciutats" : [ "Madrid", "Barcelona", "Valencia", "Sevilla", "Zaragoza", "Málaga", "Bilbao", "Las Palmas de Gran Canaria", "Murcia", "Palma de Mallorca", "Valladolid", "Córdoba", "Vigo", "Alicante [Alacant]", "Gijón", "L´Hospitalet de Llobregat", "Granada", "A Coruña (La Coruña)", "Vitoria-Gasteiz", "Santa Cruz de Tenerife", "Badalona", "Oviedo", "Móstoles", "Elche [Elx]", "Sabadell", "Santander", "Jerez de la Frontera", "Pamplona [Iruña]", "Donostia-San Sebastián", "Cartagena", "Leganés", "Fuenlabrada", "Almería", "Terrassa", "Alcalá de Henares", "Burgos", "Salamanca", "Albacete", "Getafe", "Cádiz", "Alcorcón", "Huelva", "León", "Castellón de la Plana [Castell", "Badajoz", "[San Cristóbal de] la Laguna", "Logroño", "Santa Coloma de Gramenet", "Tarragona", "Lleida (Lérida)", "Jaén", "Ourense (Orense)", "Mataró", "Algeciras", "Marbella", "Barakaldo", "Dos Hermanas", "Santiago de Compostela", "Torrejón de Ardoz" ],
+  "poblacio" : 16669189
+}, {
+  "nom" : "Palestine",
+  "ciutats" : [ "Gaza", "Khan Yunis", "Hebron", "Jabaliya", "Nablus", "Rafah" ],
+  "poblacio" : 902360
+}, {
+  "nom" : "Liberia",
+  "ciutats" : [ "Monrovia" ],
+  "poblacio" : 850000
+}, {
+  "nom" : "Venezuela",
+  "ciutats" : [ "Caracas", "Maracaíbo", "Barquisimeto", "Valencia", "Ciudad Guayana", "Petare", "Maracay", "Barcelona", "Maturín", "San Cristóbal", "Ciudad Bolívar", "Cumaná", "Mérida", "Cabimas", "Barinas", "Turmero", "Baruta", "Puerto Cabello", "Santa Ana de Coro", "Los Teques", "Punto Fijo", "Guarenas", "Acarigua", "Puerto La Cruz", "Ciudad Losada", "Guacara", "Valera", "Guanare", "Carúpano", "Catia La Mar", "El Tigre", "Guatire", "Calabozo", "Pozuelos", "Ciudad Ojeda", "Ocumare del Tuy", "Valle de la Pascua", "Araure", "San Fernando de Apure", "San Felipe", "El Limón" ],
+  "poblacio" : 12251091
+}, {
+  "nom" : "Burkina Faso",
+  "ciutats" : [ "Ouagadougou", "Bobo-Dioulasso", "Koudougou" ],
+  "poblacio" : 1229000
+}, {
+  "nom" : "Virgin Islands, U.S.",
+  "ciutats" : [ "Charlotte Amalie" ],
+  "poblacio" : 13000
+}, {
+  "nom" : "Swaziland",
+  "ciutats" : [ "Mbabane" ],
+  "poblacio" : 61000
+}, {
+  "nom" : "Palau",
+  "ciutats" : [ "Koror" ],
+  "poblacio" : 12000
+}, {
+  "nom" : "Estonia",
+  "ciutats" : [ "Tallinn", "Tartu" ],
+  "poblacio" : 505227
+}, {
+  "nom" : "Libyan Arab Jamahiriya",
+  "ciutats" : [ "Tripoli", "Bengasi", "Misrata", "al-Zawiya" ],
+  "poblacio" : 2697007
+}, {
+  "nom" : "Kazakstan",
+  "ciutats" : [ "Almaty", "Qaraghandy", "Shymkent", "Taraz", "Astana", "Öskemen", "Pavlodar", "Semey", "Aqtöbe", "Qostanay", "Petropavl", "Oral", "Temirtau", "Qyzylorda", "Aqtau", "Atyrau", "Ekibastuz", "Kökshetau", "Rudnyy", "Taldyqorghan", "Zhezqazghan" ],
+  "poblacio" : 5484200
+}, {
+  "nom" : "Wallis and Futuna",
+  "ciutats" : [ "Mata-Utu" ],
+  "poblacio" : 1137
+}, {
+  "nom" : "Niue",
+  "ciutats" : [ "Alofi" ],
+  "poblacio" : 682
+}, {
+  "nom" : "Austria",
+  "ciutats" : [ "Wien", "Graz", "Linz", "Salzburg", "Innsbruck", "Klagenfurt" ],
+  "poblacio" : 2384273
+}, {
+  "nom" : "South Korea",
+  "ciutats" : [ "Seoul", "Pusan", "Inchon", "Taegu", "Taejon", "Kwangju", "Ulsan", "Songnam", "Puchon", "Suwon", "Anyang", "Chonju", "Chongju", "Koyang", "Ansan", "Pohang", "Chang-won", "Masan", "Kwangmyong", "Chonan", "Chinju", "Iksan", "Pyongtaek", "Kumi", "Uijongbu", "Kyongju", "Kunsan", "Cheju", "Kimhae", "Sunchon", "Mokpo", "Yong-in", "Wonju", "Kunpo", "Chunchon", "Namyangju", "Kangnung", "Chungju", "Andong", "Yosu", "Kyongsan", "Paju", "Yangsan", "Ichon", "Asan", "Koje", "Kimchon", "Nonsan", "Kuri", "Chong-up", "Chechon", "Sosan", "Shihung", "Tong-yong", "Kongju", "Yongju", "Chinhae", "Sangju", "Poryong", "Kwang-yang", "Miryang", "Hanam", "Kimje", "Yongchon", "Sachon", "Uiwang", "Naju", "Namwon", "Tonghae", "Mun-gyong" ],
+  "poblacio" : 38999893
+}, {
+  "nom" : "Mozambique",
+  "ciutats" : [ "Maputo", "Matola", "Beira", "Nampula", "Chimoio", "Naçala-Porto", "Quelimane", "Mocuba", "Tete", "Xai-Xai", "Gurue", "Maxixe" ],
+  "poblacio" : 3143145
+}, {
+  "nom" : "El Salvador",
+  "ciutats" : [ "San Salvador", "Santa Ana", "Mejicanos", "Soyapango", "San Miguel", "Nueva San Salvador", "Apopa" ],
+  "poblacio" : 1138231
+}, {
+  "nom" : "Monaco",
+  "ciutats" : [ "Monte-Carlo", "Monaco-Ville" ],
+  "poblacio" : 14388
+}, {
+  "nom" : "Guam",
+  "ciutats" : [ "Tamuning", "Agaña" ],
+  "poblacio" : 10639
+}, {
+  "nom" : "Lesotho",
+  "ciutats" : [ "Maseru" ],
+  "poblacio" : 297000
+}, {
+  "nom" : "Tonga",
+  "ciutats" : [ "Nuku´alofa" ],
+  "poblacio" : 22400
+}, {
+  "nom" : "Western Sahara",
+  "ciutats" : [ "El-Aaiún" ],
+  "poblacio" : 169000
+}, {
+  "nom" : "Hungary",
+  "ciutats" : [ "Budapest", "Debrecen", "Miskolc", "Szeged", "Pécs", "Györ", "Nyiregyháza", "Kecskemét", "Székesfehérvár" ],
+  "poblacio" : 2953310
+}, {
+  "nom" : "Réunion",
+  "ciutats" : [ "Saint-Denis" ],
+  "poblacio" : 131480
+}, {
+  "nom" : "Japan",
+  "ciutats" : [ "Tokyo", "Jokohama [Yokohama]", "Osaka", "Nagoya", "Sapporo", "Kioto", "Kobe", "Fukuoka", "Kawasaki", "Hiroshima", "Kitakyushu", "Sendai", "Chiba", "Sakai", "Kumamoto", "Okayama", "Sagamihara", "Hamamatsu", "Kagoshima", "Funabashi", "Higashiosaka", "Hachioji", "Niigata", "Amagasaki", "Himeji", "Shizuoka", "Urawa", "Matsuyama", "Matsudo", "Kanazawa", "Kawaguchi", "Ichikawa", "Omiya", "Utsunomiya", "Oita", "Nagasaki", "Yokosuka", "Kurashiki", "Gifu", "Hirakata", "Nishinomiya", "Toyonaka", "Wakayama", "Fukuyama", "Fujisawa", "Asahikawa", "Machida", "Nara", "Takatsuki", "Iwaki", "Nagano", "Toyohashi", "Toyota", "Suita", "Takamatsu", "Koriyama", "Okazaki", "Kawagoe", "Tokorozawa", "Toyama", "Kochi", "Kashiwa", "Akita", "Miyazaki", "Koshigaya", "Naha", "Aomori", "Hakodate", "Akashi", "Yokkaichi", "Fukushima", "Morioka", "Maebashi", "Kasugai", "Otsu", "Ichihara", "Yao", "Ichinomiya", "Tokushima", "Kakogawa", "Ibaraki", "Neyagawa", "Shimonoseki", "Yamagata", "Fukui", "Hiratsuka", "Mito", "Sasebo", "Hachinohe", "Takasaki", "Shimizu", "Kurume", "Fuji", "Soka", "Fuchu", "Chigasaki", "Atsugi", "Numazu", "Ageo", "Yamato", "Matsumoto", "Kure", "Takarazuka", "Kasukabe", "Chofu", "Odawara", "Kofu", "Kushiro", "Kishiwada", "Hitachi", "Nagaoka", "Itami", "Uji", "Suzuka", "Hirosaki", "Ube", "Kodaira", "Takaoka", "Obihiro", "Tomakomai", "Saga", "Sakura", "Kamakura", "Mitaka", "Izumi", "Hino", "Hadano", "Ashikaga", "Tsu", "Sayama", "Yachiyo", "Tsukuba", "Tachikawa", "Kumagaya", "Moriguchi", "Otaru", "Anjo", "Narashino", "Oyama", "Ogaki", "Matsue", "Kawanishi", "Hitachinaka", "Niiza", "Nagareyama", "Tottori", "Tama", "Iruma", "Ota", "Omuta", "Komaki", "Ome", "Kadoma", "Yamaguchi", "Higashimurayama", "Yonago", "Matsubara", "Musashino", "Tsuchiura", "Joetsu", "Miyakonojo", "Misato", "Kakamigahara", "Daito", "Seto", "Kariya", "Urayasu", "Beppu", "Niihama", "Minoo", "Fujieda", "Abiko", "Nobeoka", "Tondabayashi", "Ueda", "Kashihara", "Matsusaka", "Isesaki", "Zama", "Kisarazu", "Noda", "Ishinomaki", "Fujinomiya", "Kawachinagano", "Imabari", "Aizuwakamatsu", "Higashihiroshima", "Habikino", "Ebetsu", "Hofu", "Kiryu", "Okinawa", "Yaizu", "Toyokawa", "Ebina", "Asaka", "Higashikurume", "Ikoma", "Kitami", "Koganei", "Iwatsuki", "Mishima", "Handa", "Muroran", "Komatsu", "Yatsushiro", "Iida", "Tokuyama", "Kokubunji", "Akishima", "Iwakuni", "Kusatsu", "Kuwana", "Sanda", "Hikone", "Toda", "Tajimi", "Ikeda", "Fukaya", "Ise", "Sakata", "Kasuga", "Kamagaya", "Tsuruoka", "Hoya", "Nishio", "Tokai", "Inazawa", "Sakado", "Isehara", "Takasago", "Fujimi", "Urasoe", "Yonezawa", "Konan", "Yamatokoriyama", "Maizuru", "Onomichi", "Higashimatsuyama", "Kimitsu", "Isahaya", "Kanuma", "Izumisano", "Kameoka", "Mobara", "Narita", "Kashiwazaki", "Tsuyama" ],
+  "poblacio" : 77965107
+}, {
+  "nom" : "Belarus",
+  "ciutats" : [ "Minsk", "Gomel", "Mogiljov", "Vitebsk", "Grodno", "Brest", "Bobruisk", "Baranovitši", "Borisov", "Pinsk", "Orša", "Mozyr", "Novopolotsk", "Lida", "Soligorsk", "Molodetšno" ],
+  "poblacio" : 4741000
+}, {
+  "nom" : "Mauritius",
+  "ciutats" : [ "Port-Louis", "Beau Bassin-Rose Hill", "Vacoas-Phoenix" ],
+  "poblacio" : 337280
+}, {
+  "nom" : "Albania",
+  "ciutats" : [ "Tirana" ],
+  "poblacio" : 270000
+}, {
+  "nom" : "Norfolk Island",
+  "ciutats" : [ "Kingston" ],
+  "poblacio" : 800
+}, {
+  "nom" : "New Zealand",
+  "ciutats" : [ "Auckland", "Christchurch", "Manukau", "North Shore", "Waitakere", "Wellington", "Dunedin", "Hamilton", "Lower Hutt" ],
+  "poblacio" : 1847600
+}, {
+  "nom" : "Senegal",
+  "ciutats" : [ "Pikine", "Dakar", "Thiès", "Kaolack", "Ziguinchor", "Rufisque", "Saint-Louis", "Mbour", "Diourbel" ],
+  "poblacio" : 2770458
+}, {
+  "nom" : "Macedonia",
+  "ciutats" : [ "Skopje" ],
+  "poblacio" : 444299
+}, {
+  "nom" : "Ethiopia",
+  "ciutats" : [ "Addis Abeba", "Dire Dawa", "Nazret", "Gonder", "Dese", "Mekele", "Bahir Dar" ],
+  "poblacio" : 3190334
+}, {
+  "nom" : "Egypt",
+  "ciutats" : [ "Cairo", "Alexandria", "Giza", "Shubra al-Khayma", "Port Said", "Suez", "al-Mahallat al-Kubra", "Tanta", "al-Mansura", "Luxor", "Asyut", "Bahtim", "Zagazig", "al-Faiyum", "Ismailia", "Kafr al-Dawwar", "Assuan", "Damanhur", "al-Minya", "Bani Suwayf", "Qina", "Sawhaj", "Shibin al-Kawm", "Bulaq al-Dakrur", "Banha", "Warraq al-Arab", "Kafr al-Shaykh", "Mallawi", "Bilbays", "Mit Ghamr", "al-Arish", "Talkha", "Qalyub", "Jirja", "Idfu", "al-Hawamidiya", "Disuq" ],
+  "poblacio" : 20083079
+}, {
+  "nom" : "Sierra Leone",
+  "ciutats" : [ "Freetown" ],
+  "poblacio" : 850000
+}, {
+  "nom" : "Bolivia",
+  "ciutats" : [ "Santa Cruz de la Sierra", "La Paz", "El Alto", "Cochabamba", "Oruro", "Sucre", "Potosí", "Tarija" ],
+  "poblacio" : 3378644
+}, {
+  "nom" : "Malta",
+  "ciutats" : [ "Birkirkara", "Valletta" ],
+  "poblacio" : 28518
+}, {
+  "nom" : "Saudi Arabia",
+  "ciutats" : [ "Riyadh", "Jedda", "Mekka", "Medina", "al-Dammam", "al-Taif", "Tabuk", "Burayda", "al-Hufuf", "al-Mubarraz", "Khamis Mushayt", "Hail", "al-Kharj", "al-Khubar", "Jubayl", "Hafar al-Batin", "al-Tuqba", "Yanbu", "Abha", "Ara´ar", "al-Qatif", "al-Hawiya", "Unayza", "Najran" ],
+  "poblacio" : 10636700
+}, {
+  "nom" : "Cape Verde",
+  "ciutats" : [ "Praia" ],
+  "poblacio" : 94800
+}, {
+  "nom" : "Pakistan",
+  "ciutats" : [ "Karachi", "Lahore", "Faisalabad", "Rawalpindi", "Multan", "Hyderabad", "Gujranwala", "Peshawar", "Quetta", "Islamabad", "Sargodha", "Sialkot", "Bahawalpur", "Sukkur", "Jhang", "Sheikhupura", "Larkana", "Gujrat", "Mardan", "Kasur", "Rahim Yar Khan", "Sahiwal", "Okara", "Wah", "Dera Ghazi Khan", "Mirpur Khas", "Nawabshah", "Mingora", "Chiniot", "Kamoke", "Mandi Burewala", "Jhelum", "Sadiqabad", "Jacobabad", "Shikarpur", "Khanewal", "Hafizabad", "Kohat", "Muzaffargarh", "Khanpur", "Gojra", "Bahawalnagar", "Muridke", "Pak Pattan", "Abottabad", "Tando Adam", "Jaranwala", "Khairpur", "Chishtian Mandi", "Daska", "Dadu", "Mandi Bahauddin", "Ahmadpur East", "Kamalia", "Khuzdar", "Vihari", "Dera Ismail Khan", "Wazirabad", "Nowshera" ],
+  "poblacio" : 31546745
+}, {
+  "nom" : "Gambia",
+  "ciutats" : [ "Serekunda", "Banjul" ],
+  "poblacio" : 144926
+}, {
+  "nom" : "Ireland",
+  "ciutats" : [ "Dublin", "Cork" ],
+  "poblacio" : 609041
+}, {
+  "nom" : "Qatar",
+  "ciutats" : [ "Doha" ],
+  "poblacio" : 355000
+}, {
+  "nom" : "Slovakia",
+  "ciutats" : [ "Bratislava", "Košice", "Prešov" ],
+  "poblacio" : 784143
+}, {
+  "nom" : "France",
+  "ciutats" : [ "Paris", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes", "Strasbourg", "Montpellier", "Bordeaux", "Rennes", "Le Havre", "Reims", "Lille", "St-Étienne", "Toulon", "Grenoble", "Angers", "Dijon", "Brest", "Le Mans", "Clermont-Ferrand", "Amiens", "Aix-en-Provence", "Limoges", "Nîmes", "Tours", "Villeurbanne", "Metz", "Besançon", "Caen", "Orléans", "Mulhouse", "Rouen", "Boulogne-Billancourt", "Perpignan", "Nancy", "Roubaix", "Argenteuil", "Tourcoing", "Montreuil" ],
+  "poblacio" : 9244494
+}, {
+  "nom" : "Lithuania",
+  "ciutats" : [ "Vilnius", "Kaunas", "Klaipeda", "Šiauliai", "Panevezys" ],
+  "poblacio" : 1473317
+}, {
+  "nom" : "Bosnia and Herzegovina",
+  "ciutats" : [ "Sarajevo", "Banja Luka", "Zenica" ],
+  "poblacio" : 599106
+}, {
+  "nom" : "Niger",
+  "ciutats" : [ "Niamey", "Zinder", "Maradi" ],
+  "poblacio" : 653857
+}, {
+  "nom" : "Rwanda",
+  "ciutats" : [ "Kigali" ],
+  "poblacio" : 286000
+}, {
+  "nom" : "Bangladesh",
+  "ciutats" : [ "Dhaka", "Chittagong", "Khulna", "Rajshahi", "Narayanganj", "Rangpur", "Mymensingh", "Barisal", "Tungi", "Jessore", "Comilla", "Nawabganj", "Dinajpur", "Bogra", "Sylhet", "Brahmanbaria", "Tangail", "Jamalpur", "Pabna", "Naogaon", "Sirajganj", "Narsinghdi", "Saidpur", "Gazipur" ],
+  "poblacio" : 8569906
+}, {
+  "nom" : "Barbados",
+  "ciutats" : [ "Bridgetown" ],
+  "poblacio" : 6070
+}, {
+  "nom" : "Nicaragua",
+  "ciutats" : [ "Managua", "León", "Chinandega", "Masaya" ],
+  "poblacio" : 1269223
+}, {
+  "nom" : "Norway",
+  "ciutats" : [ "Oslo", "Bergen", "Trondheim", "Stavanger", "Bærum" ],
+  "poblacio" : 1100028
+}, {
+  "nom" : "Botswana",
+  "ciutats" : [ "Gaborone", "Francistown" ],
+  "poblacio" : 314822
+}, {
+  "nom" : "Saint Vincent and the Grenadines",
+  "ciutats" : [ "Kingstown" ],
+  "poblacio" : 17100
+}, {
+  "nom" : "Macao",
+  "ciutats" : [ "Macao" ],
+  "poblacio" : 437500
+}, {
+  "nom" : "Denmark",
+  "ciutats" : [ "København", "Århus", "Odense", "Aalborg", "Frederiksberg" ],
+  "poblacio" : 1215945
+}, {
+  "nom" : "Dominican Republic",
+  "ciutats" : [ "Santo Domingo de Guzmán", "Santiago de los Caballeros", "La Romana", "San Pedro de Macorís", "San Francisco de Macorís", "San Felipe de Puerto Plata" ],
+  "poblacio" : 2438276
+}, {
+  "nom" : "Mexico",
+  "ciutats" : [ "Ciudad de México", "Guadalajara", "Ecatepec de Morelos", "Puebla", "Nezahualcóyotl", "Juárez", "Tijuana", "León", "Monterrey", "Zapopan", "Naucalpan de Juárez", "Mexicali", "Culiacán", "Acapulco de Juárez", "Tlalnepantla de Baz", "Mérida", "Chihuahua", "San Luis Potosí", "Guadalupe", "Toluca", "Aguascalientes", "Querétaro", "Morelia", "Hermosillo", "Saltillo", "Torreón", "Centro (Villahermosa)", "San Nicolás de los Garza", "Durango", "Chimalhuacán", "Tlaquepaque", "Atizapán de Zaragoza", "Veracruz", "Cuautitlán Izcalli", "Irapuato", "Tuxtla Gutiérrez", "Tultitlán", "Reynosa", "Benito Juárez", "Matamoros", "Xalapa", "Celaya", "Mazatlán", "Ensenada", "Ahome", "Cajeme", "Cuernavaca", "Tonalá", "Valle de Chalco Solidaridad", "Nuevo Laredo", "Tepic", "Tampico", "Ixtapaluca", "Apodaca", "Guasave", "Gómez Palacio", "Tapachula", "Nicolás Romero", "Coatzacoalcos", "Uruapan", "Victoria", "Oaxaca de Juárez", "Coacalco de Berriozábal", "Pachuca de Soto", "General Escobedo", "Salamanca", "Santa Catarina", "Tehuacán", "Chalco", "Cárdenas", "Campeche", "La Paz", "Othón P. Blanco (Chetumal)", "Texcoco", "La Paz", "Metepec", "Monclova", "Huixquilucan", "Chilpancingo de los Bravo", "Puerto Vallarta", "Fresnillo", "Ciudad Madero", "Soledad de Graciano Sánchez", "San Juan del Río", "San Felipe del Progreso", "Córdoba", "Tecámac", "Ocosingo", "Carmen", "Lázaro Cárdenas", "Jiutepec", "Papantla", "Comalcalco", "Zamora", "Nogales", "Huimanguillo", "Cuautla", "Minatitlán", "Poza Rica de Hidalgo", "Ciudad Valles", "Navolato", "San Luis Río Colorado", "Pénjamo", "San Andrés Tuxtla", "Guanajuato", "Navojoa", "Zitácuaro", "Boca del Río", "Allende", "Silao", "Macuspana", "San Juan Bautista Tuxtepec", "San Cristóbal de las Casas", "Valle de Santiago", "Guaymas", "Colima", "Dolores Hidalgo", "Lagos de Moreno", "Piedras Negras", "Altamira", "Túxpam", "San Pedro Garza García", "Cuauhtémoc", "Manzanillo", "Iguala de la Independencia", "Zacatecas", "Tlajomulco de Zúñiga", "Tulancingo de Bravo", "Zinacantepec", "San Martín Texmelucan", "Tepatitlán de Morelos", "Martínez de la Torre", "Orizaba", "Apatzingán", "Atlixco", "Delicias", "Ixtlahuaca", "El Mante", "Lerdo", "Almoloya de Juárez", "Acámbaro", "Acuña", "Guadalupe", "Huejutla de Reyes", "Hidalgo", "Los Cabos", "Comitán de Domínguez", "Cunduacán", "Río Bravo", "Temapache", "Chilapa de Alvarez", "Hidalgo del Parral", "San Francisco del Rincón", "Taxco de Alarcón", "Zumpango", "San Pedro Cholula", "Lerma", "Tecomán", "Las Margaritas", "Cosoleacaque", "San Luis de la Paz", "José Azueta", "Santiago Ixcuintla", "San Felipe", "Tejupilco", "Tantoyuca", "Salvatierra", "Tultepec", "Temixco", "Matamoros", "Pánuco", "El Fuerte", "Tierra Blanca" ],
+  "poblacio" : 59752521
+}, {
+  "nom" : "Uganda",
+  "ciutats" : [ "Kampala" ],
+  "poblacio" : 890800
+}, {
+  "nom" : "Suriname",
+  "ciutats" : [ "Paramaribo" ],
+  "poblacio" : 112000
+}, {
+  "nom" : "Greenland",
+  "ciutats" : [ "Nuuk" ],
+  "poblacio" : 13445
+}, {
+  "nom" : "Saint Helena",
+  "ciutats" : [ "Jamestown" ],
+  "poblacio" : 1500
+} ]
